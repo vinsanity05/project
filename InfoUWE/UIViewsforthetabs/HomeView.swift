@@ -8,16 +8,16 @@
 import SwiftUI
 
 struct HomeView: View {
-    // this is used for the user when they tap the toolbar
+    // This is used for the user when they tap the toolbar.
     @State private var showMenu: Bool = false
-    //date built in API to show the current date and month
+    // Date built in API to show the current date and month.
     @State var dateString = ""
-    // this is used for when the user taps the view all buildings/caters
+    // This is used for when the user taps the view all buildings/caters.
     @State var isViewAllBuildingsTapped = false
     @State var isViewAllCatersTapped = false
-    // this is used for the get the weather API
+    // This is used for the get the weather API.
     @StateObject var viewModel = WeatherViewModel()
-    // this will use a Foundation API to format the date in any language for the date.
+    // This will use a Foundation API to format the date in any language for the date.
     let locale = Locale(identifier: Locale.current.identifier)
     
     
@@ -31,14 +31,14 @@ struct HomeView: View {
                         CaterSection
                     }
                     .onAppear{
-                        // this is to format and structure what it will show on the screen of the date. This is used on all languages when changed on iphone settings instead of preview.
-                        // so for instance
+                        // This is to format and structure what it will show on the screen of the date. This is used on all languages when changed on iphone settings instead of preview.
+                        // So for instance:
                         // English - Monday, March 21, 2022
                         // Japanese - 2022年3月21日月曜日
                         dateString = Date.now.formatted(.dateTime.weekday(.wide).month(.wide).day().year().locale(locale))
                     }
                 }
-                // this will check how much space there is when the user taps the sidemenu and how much it will fill when tapped.
+                // This will check how much space there is when the user taps the sidemenu and how much it will fill when tapped.
                 GeometryReader { _ in
                     HStack {
                         Spacer()
@@ -51,7 +51,7 @@ struct HomeView: View {
                 
             }
             .navigationTitle("Home")
-            // this is the side menu when the user taps the tool bar
+            // This will navigate to the side menu when the user taps the tool bar.
             .toolbar {
                 Button {
                     self.showMenu.toggle()
@@ -73,16 +73,16 @@ struct HomeView: View {
     }
 }
 
-// this is just previewing all the different languages
+// This is just previewing all the different languages.
 struct HomeView_Previews: PreviewProvider {
     static var previews: some View {
-        //english language
+        // English language
         HomeView()
             .environment(\.locale, .init(identifier: "en"))
-        //french language
+        // French language
         HomeView()
             .environment(\.locale, .init(identifier: "fr"))
-        //japanese language
+        // Japanese language
         HomeView()
             .environment(\.locale, .init(identifier: "ja"))
     }
@@ -90,7 +90,7 @@ struct HomeView_Previews: PreviewProvider {
 
 extension HomeView {
     
-    //image of the SU building and real time date and time
+    // Image of the SU building and real time date and time.
     private var SUBuildingimage: some View {
         Image("SU building for homepage")
             .resizable()
@@ -99,21 +99,21 @@ extension HomeView {
             .frame(width: 395, height: 400)
             .opacity(0.7)
             .shadow(color: .black, radius: 5)
-        // Text of the today's date and modififers such as the size
+        // Text of the today's date and modifiers.
             .overlay(Text((dateString))
                 .font(.system(size:14, weight: .semibold, design:.rounded))
                 .foregroundColor(.white)
                 .offset(x:20,y:105),
                      alignment: .leading
             )
-        //text greeting
+        // Text greeting.
             .overlay(Text("Welcome!", comment: "greetings")
                 .font(.system(size:40, weight: .bold, design:.rounded))
                 .foregroundColor(.white)
                 .offset(x: 20, y:135),
                      alignment: .leading)
         
-        // Weather information - real time
+        // Weather information - real time.
             .overlay(Text("It's currently \(viewModel.temp) at UWE \(viewModel.name), with a high of \(viewModel.tempMax) today.", comment: "weather info")
                 .font(.system(size:12.5, weight: .bold, design:.rounded))
                 .foregroundColor(.white)
@@ -123,35 +123,37 @@ extension HomeView {
         
     }
     
-    // building section part for the user to look at each building and when the user taps 'all buildings', it will be navigated for them to the page.
+    // Building section part for the user to look at each building and when the user taps 'View all buildings', it will be navigated for them to the page.
     private var BuildingSection: some View {
         VStack {
             HStack {
+                // Title of the building.
                 Text("Buildings", comment: "Title of buildings")
                     .font(.system(size:28, weight: .bold, design:.rounded))
                     .foregroundColor(.primary)
                     .font(.title)
                     .padding(.leading)
                 Spacer()
+                // Navigate text of view all buildings.
                 Text("View all buildings ➡️ ", comment: " view all buildings navigation link when tapped")
                     .font(.system(size:14, weight: .semibold, design:.rounded))
                     .foregroundColor(.secondary)
                     .padding()
                     .onTapGesture {
-                        //add code to fire off NavigationLink
+                        //add code to fire off NavigationLink.
                         isViewAllBuildingsTapped.toggle()
                     }
             }
             NavigationLink("", destination: AllBuildingsView(), isActive: $isViewAllBuildingsTapped)
             
-            // horizontal scrollview for the user.
+            // Horizontal scrollview for the user.
             BuildingImageScrollSection
         }
     }
     
-    // scrollview for the user to scroll left and right of the buildings
+    // Scrollview for the user to scroll left and right of the buildings. This will be right to left if the language is changed to arabic.
     private var BuildingImageScrollSection: some View {
-        // this is previous what i did, but because there is no function when the user taps this, it only shows the image.
+        // This is what i did previously, but because there is no function when the user taps this, it only shows the image.
         //        ScrollView(.horizontal) {
         //            HStack(spacing: 30) {
         //                VStack {
@@ -190,14 +192,14 @@ extension HomeView {
         //        }
         //    }
         
-        // so what I did is call this, so that the user can tap the building
+        // So what I did is call this, so that the user can tap the building.
         ScrollBuildingImageView()
         
         
     }
     
     
-    //cater section for the user to view what UWE offers of the different caters with images. User can also tap view all caters.
+    // Cater section for the user to view what UWE offers of the different caters with images. User can also tap view all caters.
     private var CaterSection: some View {
         VStack {
             HStack {
@@ -212,7 +214,7 @@ extension HomeView {
                     .foregroundColor(.secondary)
                     .padding()
                     .onTapGesture {
-                        //add code to fire off NavigationLink
+                        // Add code to fire off NavigationLink.
                         isViewAllCatersTapped.toggle()
                     }
             }
@@ -224,7 +226,7 @@ extension HomeView {
         }
     }
     
-    //scrollview for the user to scroll left and right to view the different caters.
+    // Scrollview for the user to scroll left and right to view the different caters. Also can be viewed right to left for arabic language. Same principle as the building image scroll section.
     private var caterImageScrollSection: some View {
         //        ScrollView(.horizontal) {
         //            HStack(spacing: 30) {

@@ -14,7 +14,7 @@ struct CatersListView: View {
     
     
     var body: some View {
-        // list of the caters and a button to direct to the cater when tapped.
+        // List of the caters and a button to direct to the cater when tapped.
         List {
             ForEach(vm_two.caters) { cater in
                 Button {
@@ -39,7 +39,7 @@ struct CatersListView_Previews: PreviewProvider {
 
 extension CatersListView {
     
-    // basically making sure that the cater is unique and it will present the image and name of the cater when user taps a cater from the list.
+    // Basically making sure that the cater is unique and it will present the image and name of the cater when user taps a cater from the list.
     
     private func listRowView(cater: Cater) -> some View {
         HStack{
@@ -50,7 +50,7 @@ extension CatersListView {
                     .frame(width: 45, height: 45)
                     .cornerRadius(10)
             }
-            //aligning it to the left and present the name of the cater
+            // Aligning it to the left and present the name of the cater.
             VStack(alignment: .leading) {
                 Text(cater.name)
                     .font(.headline)

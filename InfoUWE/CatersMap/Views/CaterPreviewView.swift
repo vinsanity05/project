@@ -9,29 +9,29 @@ import SwiftUI
 
 struct CaterPreviewView: View {
     
-    //access the caters view model
+    // Access the caters view model.
     @EnvironmentObject private var vm_two: CatersViewModel
     
-    //cater of the view model
+    // Cater of the view model.
     let cater: Cater
     
     var body: some View {
-        // this is basically used to put together in h stack (horizontal) and v stack (vertical) and spacing around each other so it will look clear.
+        // This is basically used to put together in HStack (horizontal) and VStack (vertical) and spacing around each other so it will look clear.
         HStack(alignment: .bottom, spacing: 0) {
             VStack(alignment: .leading, spacing: 16) {
                 imageSection
                 titleSection
             }
             VStack(spacing: 8) {
-               learnMoreButton
+                learnMoreButton
                 NextButton
             }
         }
         .padding(20)
         .background(
-        RoundedRectangle(cornerRadius: 10)
-            .fill(.ultraThinMaterial)
-            .offset(y:52)
+            RoundedRectangle(cornerRadius: 10)
+                .fill(.ultraThinMaterial)
+                .offset(y:52)
         )
         .cornerRadius(10)
     }
@@ -41,7 +41,7 @@ struct CaterPreviewView_Previews: PreviewProvider {
     static var previews: some View {
         ZStack {
             Color.green.ignoresSafeArea()
-            //using the first cater
+            // Using the first cater.
             CaterPreviewView(cater: CatersDataService.caters.first!)
                 .padding()
         }
@@ -51,10 +51,10 @@ struct CaterPreviewView_Previews: PreviewProvider {
 
 extension CaterPreviewView {
     
-    // image of the cater and modifiers
+    // Image of the cater and modifiers.
     private var imageSection: some View {
         ZStack {
-            //getting the first image of the first caters in the array
+            // Getting the first image of the first caters in the array.
             if let imageName = cater.imageNames.first {
                 Image(imageName)
                     .resizable()
@@ -67,7 +67,7 @@ extension CaterPreviewView {
         .background(Color.white)
         .cornerRadius(10)
     }
-    // name of the cater and modifiers
+    // Name of the cater and modifiers.
     private var titleSection: some View {
         VStack(alignment: .leading, spacing: 4) {
             Text(cater.name)
@@ -76,7 +76,7 @@ extension CaterPreviewView {
         }
         .frame(maxWidth: .infinity, alignment: .leading)
     }
-    // learn button for the user to learn more about the cater
+    // Learn button for the user to learn more about the cater.
     private var learnMoreButton: some View {
         Button {
             vm_two.sheetCater = cater
@@ -87,7 +87,7 @@ extension CaterPreviewView {
         }
         .buttonStyle(.borderedProminent)
     }
-    // next button for the user to tap the next cater
+    // Next button for the user to tap the next cater.
     private var NextButton: some View {
         Button {
             vm_two.NextButtonPressed()

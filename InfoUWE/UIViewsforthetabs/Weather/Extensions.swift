@@ -8,7 +8,7 @@
 import Foundation
 
 extension Double {
-    //Extension for rounded Double to 0 decimals
+    // Extension for rounded Double to 0 decimals.
     func roundDouble() -> String {
         return String(format: "%.0f", self)
     }

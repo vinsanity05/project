@@ -11,7 +11,7 @@ import MapKit
 
 struct AllBuildingsDetailView: View {
     
-    //assinging from the model
+    // Assigning from the model.
     var UWEBuilding: AllBuilding
     
     var body: some View {
@@ -54,15 +54,15 @@ struct AllBuildingsDetailView: View {
 struct AllBuildingsDetailView_Previews: PreviewProvider {
     static var previews: some View {
         AllBuildingsDetailView(UWEBuilding: AllBuildingList.nameofbuildings.first!)
-        //french language
-        //           AllBuildingsDetailView(UWEBuilding: AllBuildingList.nameofbuildings.first!)
-        //                .environment(\.locale, .init(identifier: "fr"))
+        // French language.
+        //        AllBuildingsDetailView(UWEBuilding: AllBuildingList.nameofbuildings.first!)
+        //            .environment(\.locale, .init(identifier: "fr"))
     }
 }
 
 extension AllBuildingsDetailView {
     
-    // image of the building
+    // Image of the building.
     private var imageSection: some View {
         Image(UWEBuilding.imageName)
             .resizable()
@@ -72,7 +72,7 @@ extension AllBuildingsDetailView {
             .cornerRadius(2)
             .shadow(color: Color.black.opacity(0.3), radius: 20, x: 0, y: 10)
     }
-    // name of the building
+    // Name of the building.
     private var nameBuildingSection: some View {
         Text(UWEBuilding.name)
             .font(.largeTitle)
@@ -81,20 +81,20 @@ extension AllBuildingsDetailView {
             .multilineTextAlignment(.center)
             .padding()
     }
-    // button for the user to tap to listen for the description
+    // Button for the user to tap to listen for the description.
     private var buttonSection: some View {
         Button(action: {
             // let voice = AVSpeechSynthesisVoice(language: "en-UK") - puts the voice in english
-            // puts the voice in the preferred language voice.
+            // Puts the voice in the preferred language voice.
             let voice = AVSpeechSynthesisVoice(language: "")
             let utterance = AVSpeechUtterance( string: UWEBuilding.description)
-            // speed of the voice when talking
+            // Speed of the voice when talking.
             utterance.rate = 0.5
             utterance.voice = voice
             let synthesizer = AVSpeechSynthesizer()
             synthesizer.speak(utterance)
         })  {
-            //image of what the sound button looks like
+            // Image of what the sound button looks like.
             Image(systemName: "speaker.wave.3.fill")
                 .font(.system(size: 20))
                 .foregroundColor(.primary)
@@ -102,7 +102,7 @@ extension AllBuildingsDetailView {
         }
     }
     
-    // description of the building
+    // Description of the building.
     private var descriptionSection: some View {
         Text(LocalizedStringKey(UWEBuilding.description), comment: "building description")
             .font(.subheadline)
@@ -110,7 +110,7 @@ extension AllBuildingsDetailView {
             .padding()
     }
     
-    // map of where the building is
+    // Map of where the building is.
     private var mapLayer: some View {
         Map(coordinateRegion: .constant(MKCoordinateRegion(
             center: UWEBuilding.coordinates,
@@ -120,18 +120,18 @@ extension AllBuildingsDetailView {
                         .shadow(radius: 10)
                 }
             }
-        //disabling the map so they won't fiddle the map
+        // Disabling the map so they won't fiddle the map.
             .allowsHitTesting(false)
             .aspectRatio(1, contentMode: .fit)
             .cornerRadius(30)
     }
     
-    //button for the direction of the building
+    // Button for the direction of the building.
     private var directionSection: some View {
         Button(
             "View direction to the building 📍",
             action: {
-                //calling the UWEBuilding coordinates
+                // Calling the UWEBuilding coordinates.
                 let latitude = UWEBuilding.coordinates.latitude
                 let longitude = UWEBuilding.coordinates.longitude
                 let url = URL(string: "maps://?saddr=&daddr=\(latitude),\(longitude)")

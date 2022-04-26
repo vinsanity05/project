@@ -10,7 +10,7 @@ import SwiftUI
 struct SideMenuView: View {
     
     var body: some View {
-        // this is the title of the sidemenu and modifers
+        // This is the title of the sidemenu and modifiers.
         VStack {
             Text("Useful Information", comment: "title of the side menu")
                 .font(.system(size:28, weight: .bold, design:.rounded))
@@ -21,7 +21,7 @@ struct SideMenuView: View {
                 .background(Color.white)
                 .padding(.horizontal, 16)
             
-            // link to the contact us website and modifers
+            // Link to the contact us website and modifiers.
             VStack {
                 Link(destination: URL(string: "https://www.uwe.ac.uk/about/contact-us/how-to-contact-us")!) {
                     Text("Contact Us", comment: "link to contact UWE")
@@ -30,7 +30,7 @@ struct SideMenuView: View {
                 .foregroundColor(.white)
                 .padding()
             }
-            // link to the information point website and modifiers
+            // Link to the information point website and modifiers.
             VStack {
                 Link(destination: URL(string: "https://www.uwe.ac.uk/life/campus-and-facilities/information-points")!) {
                     Text("Information Point", comment: "info point link")
@@ -39,7 +39,7 @@ struct SideMenuView: View {
                 .foregroundColor(.white)
                 .padding()
             }
-            // link to the student services website and modifers
+            // Link to the student services website and modifiers.
             VStack {
                 Link(destination: URL(string: "https://www.uwe.ac.uk/about/services/student-and-academic-services")!) {
                     Text("Student services", comment: "student service link")
@@ -48,7 +48,7 @@ struct SideMenuView: View {
                 .foregroundColor(.white)
                 .padding()
             }
-            // link to the info hub website and modifers
+            // Link to the info hub website and modifiers.
             VStack {
                 Link(destination: URL(string: "https://infohub.uwe.ac.uk")!) {
                     Text("Info Hub", comment: "info hub link")
@@ -57,7 +57,7 @@ struct SideMenuView: View {
                 .foregroundColor(.white)
                 .padding()
             }
-            // link to the staff directory website and modifers
+            // Link to the staff directory website and modifiers.
             VStack {
                 Link(destination: URL(string: "https://people.uwe.ac.uk")!) {
                     Text("Staff directory", comment: "staff directory link")
@@ -66,7 +66,7 @@ struct SideMenuView: View {
                 .foregroundColor(.white)
                 .padding()
             }
-            //link to the IT services website and modifers
+            // Link to the IT services website and modifiers.
             VStack {
                 Link(destination: URL(string: "https://www.uwe.ac.uk/study/it-services")!) {
                     Text("IT services", comment: "IT services link")
@@ -77,7 +77,7 @@ struct SideMenuView: View {
             }
         }
         .padding(32)
-        // this is for the colour of the background
+        // This is for the colour of the background.
         .background(LinearGradient(gradient: Gradient(colors: [Color(red: 0.3, green: 0.5, blue: 0.7), Color(red: 0.3, green: 0.7, blue: 0.9)]), startPoint: .top, endPoint: .bottom))
         .edgesIgnoringSafeArea(.bottom)
     }

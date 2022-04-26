@@ -9,14 +9,14 @@ import SwiftUI
 
 struct BuildingPreviewView: View {
     
-    //access the view model
+    // Accessing the view model.
     @EnvironmentObject private var vm: BuildingsViewModel
     
-    //building of the view model
+    // Building of the view model.
     let building: Building
     
     var body: some View {
-        // this is basically used to put together in h stack (horizontal) and v stack (vertical) and spacing around each other so it won't look clustered.
+        // This is basically used to put together in HStack (horizontal) and VStack (vertical) and spacing around each other so it won't look clustered.
         HStack(alignment: .bottom, spacing: 0) {
             VStack(alignment: .leading, spacing: 16) {
                 imageSection
@@ -41,20 +41,20 @@ struct BuildingPreviewView_Previews: PreviewProvider {
     static var previews: some View {
         Group {
             ZStack {
-                // this is just preview of what the preview section will look like. so basically this green background won't be added and using the first building from the array.
+                // This is just a preview of what the preview section will look like. So basically this green background won't be added and uses the first building from the array.
                 Color.green.ignoresSafeArea()
                 BuildingPreviewView(building: BuildingsDataService.buildings.first!)
                     .padding()
             }
             .environmentObject(BuildingsViewModel())
-            //french language preview of the building - if the language is changed from the settings or the user's iphone is set to french
+            // French language preview of the building - if the language is changed from the settings or the user's iPhone is set to french.
             ZStack {
                 Color.green.ignoresSafeArea()
                 BuildingPreviewView(building: BuildingsDataService.buildings.first!)
                     .padding()
             }
             .environmentObject(BuildingsViewModel())
-            //        //french language
+            // French language.
             .environment(\.locale, .init(identifier: "fr"))
         }
     }
@@ -62,10 +62,10 @@ struct BuildingPreviewView_Previews: PreviewProvider {
 
 extension BuildingPreviewView {
     
-    // modifiers for the image part
+    // Modifiers for the image section.
     private var imageSection: some View {
         ZStack {
-            //getting the first image of the array in the buildings
+            // Getting the first image of the array in the buildings.
             if let imageName = building.imageNames.first {
                 Image(imageName)
                     .resizable()
@@ -79,7 +79,7 @@ extension BuildingPreviewView {
         .cornerRadius(10)
     }
     
-    // the name of the building and modifiers
+    // The name of the building and modifiers.
     private var titleSection: some View {
         VStack(alignment: .leading, spacing: 4) {
             Text(building.name)
@@ -89,7 +89,7 @@ extension BuildingPreviewView {
         .frame(maxWidth: .infinity, alignment: .leading)
     }
     
-    // the learn button
+    // The learn button and modifiers.
     private var learnMoreButton: some View {
         Button {
             vm.sheetBuilding = building
@@ -100,7 +100,7 @@ extension BuildingPreviewView {
         }
         .buttonStyle(.borderedProminent)
     }
-    // the next button
+    // The next button and modfiers.
     private var NextButton: some View {
         Button {
             vm.NextButtonPressed()

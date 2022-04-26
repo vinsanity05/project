@@ -1,5 +1,5 @@
 //
-//  AllBuildingsDetailView.swift
+//  AlCatersDetailView.swift
 //  InfoUWE
 //
 //  Created by Vince Verdadero on 05/02/2022.
@@ -11,10 +11,11 @@ import MapKit
 
 struct AllCatersDetailView: View {
     
+    // Assigning from the model.
     var UWECater: AllCater
     
     var body: some View {
-        // scrollview so that the user can scroll up and down of the section
+        // Scrollview so that the user can scroll up and down of the section.
         ScrollView {
             VStack(spacing: 20) {
                 imageSection
@@ -28,7 +29,7 @@ struct AllCatersDetailView: View {
             }
             Divider()
             descriptionSection
-            // link of the website
+            // Link of the website.
             if let url = URL(string:UWECater.url) {
                 Link("Read more on UWE Website", destination: url)
                     .font(.headline)
@@ -44,7 +45,7 @@ struct AllCatersDetailView: View {
 }
 
 struct AllCatersDetailView_Previews: PreviewProvider {
-    // preview of the first cater
+    // Preview of the first cater.
     static var previews: some View {
         AllCatersDetailView(UWECater: AllCaterList.nameofcaters.first!)
     }
@@ -52,7 +53,7 @@ struct AllCatersDetailView_Previews: PreviewProvider {
 
 extension AllCatersDetailView {
     
-    // image of the caters
+    // Image of the caters.
     private var imageSection: some View {
         Image(UWECater.imageName)
             .resizable()
@@ -62,7 +63,7 @@ extension AllCatersDetailView {
             .cornerRadius(2)
             .shadow(color: Color.black.opacity(0.3), radius: 20, x: 0, y: 10)
     }
-    // name of the cater
+    // Name of the cater.
     private var nameCaterSection: some View {
         Text(UWECater.name)
             .font(.largeTitle)
@@ -71,20 +72,20 @@ extension AllCatersDetailView {
             .multilineTextAlignment(.center)
             .padding()
     }
-    // button for the user to tap to listen for the description
+    // Button for the user to tap to listen for the description.
     private var buttonSection: some View {
         Button(action: {
             // let voice = AVSpeechSynthesisVoice(language: "en-UK") - puts the voice in english
-            // puts the voice in the preferred language voice.
+            // Puts the voice in the preferred language voice.
             let voice = AVSpeechSynthesisVoice(language: "")
             let utterance = AVSpeechUtterance( string: UWECater.description)
-            // speed of the voice when talking
+            // Speed of the voice when talking.
             utterance.rate = 0.5
             utterance.voice = voice
             let synthesizer = AVSpeechSynthesizer()
             synthesizer.speak(utterance)
         })  {
-            //image of what the sound button looks like
+            // Image of what the sound button looks like.
             Image(systemName: "speaker.wave.3.fill")
                 .font(.system(size: 20))
                 .foregroundColor(.primary)
@@ -92,7 +93,7 @@ extension AllCatersDetailView {
         }
     }
     
-    // description of the cater
+    // Description of the cater.
     private var descriptionSection: some View {
         Text(LocalizedStringKey(UWECater.description), comment: "Cater description")
             .font(.subheadline)
@@ -100,7 +101,7 @@ extension AllCatersDetailView {
             .padding()
     }
     
-    // map of where the cater is
+    // Map of where the cater is.
     private var mapLayer: some View {
         Map(coordinateRegion: .constant(MKCoordinateRegion(
             center: UWECater.coordinates,
@@ -110,18 +111,18 @@ extension AllCatersDetailView {
                         .shadow(radius: 10)
                 }
             }
-        //disabling the map so they won't fiddle the map
+        // Disabling the map so they won't fiddle the map.
             .allowsHitTesting(false)
             .aspectRatio(1, contentMode: .fit)
             .cornerRadius(30)
     }
     
-    //button for the direction of the cater
+    // Button for the direction of the cater.
     private var directionSection: some View {
         Button(
             "View direction to the cater 📍",
             action: {
-                //calling the UWEBuilding coordinates
+                // Calling the UWECater coordinates.
                 let latitude = UWECater.coordinates.latitude
                 let longitude = UWECater.coordinates.longitude
                 let url = URL(string: "maps://?saddr=&daddr=\(latitude),\(longitude)")

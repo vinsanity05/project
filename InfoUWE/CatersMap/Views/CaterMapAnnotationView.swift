@@ -7,13 +7,15 @@
 
 import SwiftUI
 
-// creating a custom annotation than just the SF symbols.  Same principle as the buildings map annotaton view
+// Creating a custom annotation than just the SF symbols. Same principle as the buildings map annotaton view.
 
 struct CaterMapAnnotationView: View {
     
     
     var body: some View {
         VStack(spacing: 0) {
+            
+            // Uses the SF symbols.
             Image(systemName: "map.circle.fill")
                 .resizable()
                 .scaledToFit()
@@ -24,6 +26,7 @@ struct CaterMapAnnotationView: View {
                 .background(.brown)
                 .cornerRadius(36)
             
+            // Uses the SF symbols.
             Image(systemName: "triangle.fill")
                 .resizable()
                 .scaledToFit()

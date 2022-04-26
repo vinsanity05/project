@@ -9,14 +9,14 @@ import SwiftUI
 
 struct OnboardingScreenView: View {
     
-    //inject our manager into this view, so our onboarding content manager and get started action
+    // Inject our manager into this view, so our onboarding content manager and get started action.
     let OCM: OnboardingContentManager
     let getStartH: OnBoardGSAction
     
-    //track what screen you have selected (current view the users on)
+    // Track what screen you have selected (current view the users on).
     @State private var trackScreenPicked = 0
     
-    // initialising
+    // Initialising
     internal init(OCManager: OnboardingContentManager, hand: @escaping OnBoardGSAction) {
         self.OCM = OCManager
         self.getStartH = hand
@@ -24,7 +24,7 @@ struct OnboardingScreenView: View {
     
     var body: some View {
         TabView(selection: $trackScreenPicked) {
-            //uniquely loop in our array of onboarding items because they are identifiable - so going to get the items array and restrict how much there is.
+            // Uniquely loop in our array of onboarding items because they are identifiable - so going to get the items array and restrict how much there is.
             ForEach(OCM.numberOfScreens.indices, id:\.self) {
                 index in OnboardingView(item: OCM.numberOfScreens[index],
                                         restrictPage: OCM.restrict,
@@ -32,10 +32,11 @@ struct OnboardingScreenView: View {
                                         handleB: getStartH)
             }
         }
-        //uses the backgroundimage from the assets to display the background
-        .background(Image("backgroundimage").ignoresSafeArea())
+        // Uses the backgroundimage from the assets folder to display the background.
+        .background(Image("backgroundimage")
+            .ignoresSafeArea())
         .tabViewStyle(PageTabViewStyle())
-        // this basically check which page the user are on
+        // This basically checks which page the user is on.
         .indexViewStyle(PageIndexViewStyle(backgroundDisplayMode: .always))
     }
 }

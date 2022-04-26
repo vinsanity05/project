@@ -9,15 +9,15 @@ import SwiftUI
 
 struct ScrollCaterImageView: View {
     
-    // getting all the caters in the allcater model
+    // Getting all the caters in the allcater model.
     var UWEcaters: [AllCater] = AllCaterList.nameofcaters
     
     
     var body: some View {
-        // list of the buildings and will be navigated to building itself.
+        // List of the caters and will be navigated to caters itself.
         ScrollView(.horizontal, showsIndicators: false) {
             HStack {
-                // this will limit how many buildings when presenting on the scrollview from the array. So only 3 caters will be shown so it won't let the user keep scrolling.
+                // This will limit how many caters when presenting on the scrollview from the array. So only 3 caters will be shown so it won't let the user keep scrolling.
                 ForEach(UWEcaters.prefix(3),id: \.id) { cater in
                     NavigationLink(destination: AllCatersDetailView(UWECater: cater), label: {
                         ScrollImageCaterCell(allCater: cater)
@@ -31,11 +31,11 @@ struct ScrollCaterImageView: View {
     
 }
 
-// getting the name of the caters and the image name
+// Getting the name of the caters and the image name.
 struct ScrollImageCaterCell: View {
     var allCater: AllCater
     var body: some View {
-        //image of the cater
+        // Image of the cater.
         VStack {
             Image(allCater.imageName)
                 .resizable()
@@ -44,7 +44,7 @@ struct ScrollImageCaterCell: View {
                 .cornerRadius(10)
                 .padding(.vertical)
                 .padding(.horizontal)
-            //name of the cater
+            // Name of the cater.
             Text(allCater.name)
                 .foregroundColor(.secondary)
                 .font(.system(size:18, weight: .semibold, design:.rounded))

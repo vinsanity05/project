@@ -7,15 +7,15 @@
 
 import SwiftUI
 
-// this view essentially makes a custom annotation icon for the user to see from the SF symbols. 
+// This view essentially makes a custom annotation icon for the user to see from the SF symbols.
 struct BuildingMapAnnotationView: View {
     
-    // accent colour from the assets folder
+    // Accent colour from the assets folder.
     let accentColor = Color("AccentColor")
     
     var body: some View {
         VStack(spacing: 0) {
-            // uses the SF symbols
+            // Uses the SF symbols.
             Image(systemName: "map.circle.fill")
                 .resizable()
                 .scaledToFit()
@@ -26,7 +26,7 @@ struct BuildingMapAnnotationView: View {
                 .background(accentColor)
                 .cornerRadius(36)
             
-            // uses the SF symbols
+            // Uses the SF symbols.
             Image(systemName: "triangle.fill")
                 .resizable()
                 .scaledToFit()

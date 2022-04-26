@@ -11,15 +11,15 @@ import MapKit
 
 struct BuildingsView: View {
     
-    //accessing the view building model for the view.
+    // Accessing the view building model for the view.
     @EnvironmentObject private var vm: BuildingsViewModel
     
     var body: some View {
         ZStack {
-            // this essentially fills out the whole screen of the Apple map
+            // This essentially fills out the whole screen of the Apple Maps.
             mapLayer
                 .ignoresSafeArea()
-            // this will show most of the buildings when the user taps this search bar
+            // This will show most of the buildings when the user taps this search bar.
             VStack(spacing: 0) {
                 searchbar
                     .padding()
@@ -27,7 +27,7 @@ struct BuildingsView: View {
                 buildingsPreviewStack
             }
         }
-        // this will produce a sheet of the building and will get the detail of the building.
+        // This will produce a sheet of the building and will get the detail of the building.
         .sheet(item: $vm.sheetBuilding, onDismiss: nil) { building in
             BuildingDetailView(building: building)
         }
@@ -41,13 +41,13 @@ struct BuildingsView_Previews: PreviewProvider {
     }
 }
 
-// extension for the buildingsview
+// Extension for the buildingsview.
 extension BuildingsView {
     
-    // this is mostly the modifiers of the search bar
+    // This is the search bar and the modifiers.
     private var searchbar: some View {
         VStack {
-            //button for the user and shows the list of buildings
+            // Button for the user and shows the list of buildings.
             Button(action: vm.toggleBuildingsList) {
                 Text(vm.mapBuilding.name)
                     .font(.title2)
@@ -55,18 +55,18 @@ extension BuildingsView {
                     .foregroundColor(.primary)
                     .frame(height: 55)
                     .frame(maxWidth: .infinity)
-                // there will be no animation of name of the building
+                // There will be no animation of name of the building since it will disrupt how the UI would look.
                     .animation(.none, value: vm.mapBuilding)
                     .overlay(alignment: .leading) {
                         Image(systemName: "arrow.down")
                             .font(.headline)
                             .foregroundColor(.primary)
                             .padding()
-                        // make the arrow flip when tapped.
+                        // Make the arrow flip when tapped.
                             .rotationEffect(Angle(degrees: vm.showBuildingsList ? 180 : 0))
                     }
             }
-            
+            // This will present the list if tapped.
             if vm.showBuildingsList {
                 BuildingsListView()
             }
@@ -78,14 +78,14 @@ extension BuildingsView {
     }
     
     private var mapLayer: some View {
-        // this is basically getting the coordinates from the model and adding the annotation from the annotation view
-        //The ‘$’ basically is used so that SwiftUI will write the value using the property wrapper, which will in turn stash it away and cause the UI to refresh automatically.
+        // This is basically getting the coordinates from the model and adding the annotation from the annotation view.
+        // The ‘$’ basically is used so that SwiftUI will write the value using the property wrapper, which will in turn stash it away and cause the UI to refresh automatically.
         Map(coordinateRegion: $vm.mapRegion, annotationItems: vm.buildings, annotationContent: { building in
             MapAnnotation(coordinate: building.coordinates) {
                 BuildingMapAnnotationView()
                     .scaleEffect(vm.mapBuilding == building ? 1 : 0.7)
                     .shadow(radius: 10)
-                // when the user taps the next button it will go to the next building from the model
+                // When the user taps the next button it will go to the next building from the model.
                     .onTapGesture {
                         vm.showNextBuilding(building: building)
                     }
@@ -93,20 +93,21 @@ extension BuildingsView {
         })
     }
     
-    // modifiers for the buildings of the search bar
+    // Modifiers for the buildings of the search bar.
     private var buildingsPreviewStack: some View {
         ZStack {
-            //showing each building
+            // Showing each building.
             ForEach(vm.buildings) { building in
-                //these are stacked between each other but because of the if statement it's saying only add this preview view if the current building location is this building - that's why we only get one preview view inside the z stack
+                // These are stacked between each other but because of the if statement it's saying only add this preview view if the current building location is this building - that's why we only get one preview view inside the ZStack.
                 if vm.mapBuilding == building {
                     BuildingPreviewView(building: building)
                         .shadow(color: Color.black.opacity(0.3), radius: 20)
                         .padding()
                         .frame(maxWidth: .infinity)
-                    //animation for the preview
+                    // Animation for the preview.
                         .transition(.asymmetric(insertion: .move(edge:.trailing), removal: .move(edge: .leading)))
-                    // trying animation here to see what it is like .transition(AnyTransition.opacity.animation(.easeInOut))
+                    // Trying animation here to see what it is like.
+                    //                        .transition(AnyTransition.opacity.animation(.easeInOut))
                     
                 }
             }

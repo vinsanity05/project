@@ -8,7 +8,7 @@
 import SwiftUI
 
 
-// As mentioned on the building not sure where the bug is coming from to view the preview properly - but works fine in simulator. 
+// As mentioned on the building file not sure where the bug is coming from to view the preview properly - but works fine in simulator.
 
 struct AllCatersView: View {
     
@@ -17,7 +17,7 @@ struct AllCatersView: View {
     @State private var searchText = ""
     
     var body: some View {
-        // list of the caters and when tapped, it will navigate to the detail view of that section.
+        // List of the caters and when tapped, it will navigate to the detail view of that section.
         List(UWEcaters.filter({
             searchText.isEmpty ? true: $0.name.localizedStandardContains(searchText)
         }),id: \.id) { cater in
@@ -26,9 +26,10 @@ struct AllCatersView: View {
             })
             
         }
-        // this basically used for the search part and when the user starts typing it will give suggestions on the caters.
+        // This is basically used for the search part and when the user starts typing it will give suggestions on the caters.
         .searchable(text: $searchText, prompt: "Search for caters", suggestions: {
             if !searchText.isEmpty{
+                // This will check if the name of the caters is there and if not it will be empty.
                 ForEach(UWEcaters.filter({
                     searchText.isEmpty ? true : $0.name.localizedStandardContains(searchText)
                 })) {
@@ -44,7 +45,7 @@ struct AllCatersView: View {
     
 }
 
-// this is made for when the user views the screen and see the names of the building and what the cater looks like.
+// This is made for when the user views the screen and see the names of the caters and what the cater looks like.
 struct AllCaterCell: View {
     var allCater: AllCater
     var body: some View {

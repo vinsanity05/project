@@ -7,14 +7,15 @@
 
 import Foundation
 
-// Data
+// This is the model data for the weather.
 
-// codable is used to convert json data directly into structs
+// Codable is used to convert json data directly into structs.
 struct WeatherModel: Codable {
     let name: String
     let main: getweatherInfo
 }
 
+// Setting the temperature to double since its a float.
 struct getweatherInfo: Codable {
     let temp: Double
     let temp_max: Double
