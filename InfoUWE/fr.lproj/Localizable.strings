@@ -1,0 +1,300 @@
+/* footer of parking */
+"Access UWE parking areas" = "Accéder aux parkings UWE";
+
+/* home link of all buildings*/
+"All Buildings" = "Tous les bâtiments";
+
+/* home link of all caters*/
+"All Caters" = "Tous les restaurants";
+
+/* Onboarding screen 3 */
+"And view other information such as Restaurants & Cafes!" = "Et consultez d'autres informations telles que Restaurants & Cafés!";
+
+/* Apps access footer */
+"Apps access" = "Accès aux applications";
+
+/* footer of the shop image */
+"Browse shopping spots" = "Parcourir les lieux de shopping";
+
+/* Title of buildings */
+"Buildings" = "Bâtiments";
+
+/* call */
+"Call" = "Appel";
+
+/* campus map text */
+"Campus Map" = "Plan du campus";
+
+/* campus parking text */
+"Campus Parking" = "Stationnement du campus";
+
+/* caters title */
+"Caters" = "S'occupe";
+
+/* footer of the News image */
+"Check out the latest news about UWE" = "Découvrez les dernières actualités de l'UWE";
+
+/* footer of the showcase image */
+"Check out the latest work from student graduates" = "Découvrez les derniers travaux des étudiants diplômés";
+
+/* link to contact UWE */
+"Contact Us" = "Nous contacter";
+
+/* email */
+"Email" = "Email";
+
+/* event text */
+"Events" = "événements";
+
+/* explore tab */
+"Explore" = "Explorer";
+
+/* footer of the event text */
+"Explore upcoming events and things to do around UWE" = "Explorez les événements à venir et les choses à faire autour de l'UWE";
+
+/* onboarding screen 3 */
+"Explore!" = "Explorer!";
+
+/* header of the showcase text */
+"Featured" = "En vedette";
+
+/* onboarding screen 2 */
+"Find your way!" = "Trouver votre chemin!";
+
+/* facebook */
+"Follow us on Facebook" = "Suis nous sur Facebook";
+
+/* insta */
+"Follow us on Instagram" = "Suis nous sur instagram";
+
+/* header of follow us on socials */
+"Follow us on our socials" = "Suivez-nous sur nos réseaux sociaux";
+
+/* twitter */
+"Follow us on Twitter" = "Suivez-nous sur Twitter";
+
+/* get started button */
+"Get Started" = "Commencer";
+
+/* get arround text */
+"Getting Around" = "Se déplacer";
+
+/* footer of help services */
+"Help support services" = "Aider les services d'assistance";
+
+/* helpful resources text */
+"Helpful Resources" = "Ressources utiles";
+
+/* onboarding screen 2 */
+"Here you can find information about UWE buildings!" = "Vous trouverez ici des informations sur les bâtiments UWE!";
+
+/* home tab */
+"Home" = "Domicile";
+
+/* onboarding info again text */
+"If you want, you can tap to see the onboarding screen again." = "Si vous le souhaitez, vous pouvez appuyer sur pour revoir l'écran d'intégration.";
+
+/* info hub link */
+"Info Hub" = "Centre d'informations";
+
+/* footer of transport image */
+"Information about transport" = "Informations sur les transports";
+
+/* info point link */
+"Information Point" = "Point d'information";
+
+/* IT services link */
+"IT services" = "services informatiques";
+
+/* weather info */
+"It's currently %@ at UWE %@, with a high of %@ today." = "Il fait actuellement %@ à UWE %@, avec un maximum de %@ aujourd'hui.";
+
+/* Learn more button */
+"Learn more" = "Apprendre encore plus";
+
+/* Map of building tab */
+"Map of Buildings" = "Carte des bâtiments";
+
+/* map of cater tab */
+"Map of Caters" = "Carte Caters";
+
+/* more apps text */
+"More apps" = "Plus d'applications";
+
+/* more to explore text */
+"More to explore" = "Plus à explorer";
+
+/* News text of news image */
+"News" = "Nouvelles";
+
+/* Next button */
+"Next" = "Suivant";
+
+/* comment in settings about onboarding */
+"Onboarding screen?" = "Écran d'accueil?";
+
+/* footer of important resources */
+"Quickly access important resources" = "Accédez rapidement aux ressources importantes";
+
+/* detail view read more uwe link */
+"Read more on UWE Website" = "En savoir plus sur le site Web de l'UWE";
+
+/* restart text header */
+"Restart" = "redémarrage";
+
+/* restart app info*/
+"Restart app" = "Redémarrer l'application";
+
+/* safety info text */
+"Safety info" = "Informations de sécurité";
+
+/* search bar for buildings */
+"Search for buildings" = "Rechercher des bâtiments";
+
+/* search bar for caters*/
+"Search for caters" = "Rechercher des traiteurs";
+
+/* footer of campus map */
+"Searchable UWE map" = "Carte UWE consultable";
+
+/* settings tab */
+"Settings" = "Réglages";
+
+/* shop title */
+"Shops" = "Magasins";
+
+/* showcase text */
+"Showcase" = "Vitrine";
+
+/* staff directory link */
+"Staff directory" = "Répertoire personnel";
+
+/* top header of news image */
+"Stay In The Know" = "Restez au courant";
+
+/* blog title */
+"Student blogs" = "Blogues étudiants";
+
+/* student service link */
+"Student services" = "Services aux étudiants";
+
+/* footer of the title */
+"Students experience at UWE" = "L'expérience des étudiants à l'UWE";
+
+/* transport text */
+"Transport" = "Transport";
+
+/* header of urgent assistance text */
+"Urgent assistance - Please call or email and we will assist you, runs 24/7, 365 days a year" = "Assistance urgente - Veuillez appeler ou envoyer un e-mail et nous vous aiderons, fonctionne 24h/24 et 7j/7, 365 jours par an";
+
+/* title of the side menu */
+"Useful Information" = "informations utiles";
+
+/* view all buildings navigation link when tapped */
+"View all buildings ➡️ " = "Voir tous les bâtiments ➡️";
+
+/* view all caters navigation link when tapped */
+"View all caters ➡️" = "Voir tous les restaurants ➡️";
+
+/* detail view directions to building  */
+"View direction to the building 📍" = "Voir la direction de l'immeuble 📍";
+
+/* detail view directions to cater */
+"View direction to the cater 📍" = "Voir direction au traiteur 📍";
+
+/* onboarding screen info page 1 */
+"Welcome To InfoUWE!" = "Bienvenue sur InfoUWE!";
+
+/* greetings */
+"Welcome!" = "Bienvenu!";
+
+/* Well being text */
+"Well-being" = "Bien-être";
+
+/* header of the events image */
+"What's Happening" = "ce qui se passe";
+
+/* onboarding screen info page 2 */
+"You can also be navigated to the selected building!" = "Vous pouvez également être dirigé vers le bâtiment sélectionné!";
+
+/* restarted toggle */
+"RESTARTED" = "REDÉMARRÉ";
+
+/* tap to restart toggle */
+"TAP TO RESTART" = "APPUYER POUR REDÉMARRER";
+
+/* Student Union information */
+"We’ve invested £10m to create a new energy-efficient building for the Students’ Union at UWE on our Frenchay Campus, designed to improve the experience of our students with enhanced facilities, spaces and easier to access services." = "Nous avons investi 10 millions de livres sterling pour créer un nouveau bâtiment économe en énergie pour l'Union des étudiants de l'UWE sur notre campus Frenchay, conçu pour améliorer l'expérience de nos étudiants avec des installations, des espaces et des services plus faciles d'accès.";
+
+/* Engineering block info*/
+"Home to specialist laboratories, workshops and digital engineering facilities, the building has been designed to complement our practice-based curriculum – bringing engineering to life through real world problems. As a student you can expect live industry briefs and the experience to build an enterprising skill set, so you’re set up to graduate with business acumen and technical qualifications." = "Abritant des laboratoires spécialisés, des ateliers et des installations d'ingénierie numérique, le bâtiment a été conçu pour compléter notre programme d'études basé sur la pratique - donnant vie à l'ingénierie à travers des problèmes du monde réel. En tant qu'étudiant, vous pouvez vous attendre à des informations en direct sur l'industrie et à l'expérience pour construire ensemble de compétences, vous êtes donc prêt à obtenir votre diplôme avec un sens aigu des affaires et des qualifications techniques.";
+
+/* Centre of Sport info*/
+"This fantastic £5.5 million facility caters for all abilities and competitive natures.  At our Centre of Sport, you’ll find everything from climbing walls to squash courts, football pitches to fitness studios. And whether you are an elite athlete or a total beginner there is something here for you. We know just how important it is to stay fit and healthy. It not only boosts energy levels and focuses the mind but it also helps you to de-stress and feel happier." = "Cette fantastique installation de 5,5 millions de livres sterling répond à toutes les capacités et à toutes les natures compétitives. Dans notre centre de sport, vous trouverez tout, des murs d'escalade aux courts de squash, des terrains de football aux studios de fitness. Et que vous soyez un athlète d'élite ou un débutant total il y a quelque chose ici pour vous. Nous savons à quel point il est important de rester en forme et en bonne santé. Non seulement cela augmente les niveaux d'énergie et concentre l'esprit, mais cela vous aide également à vous détendre et à vous sentir plus heureux.";
+
+/* ECC info */
+"The UWE ECC, launched in December 2009, is quickly building a reputation amongst major local business as the ideal location for a wide range of business events. Now UWE Bristol's Exhibition and Conference Centre (ECC) has been used as a temporary NHS hospital treating COVID-19 patients." = "L'UWE ECC, lancé en décembre 2009, s'est rapidement forgé une réputation parmi les grandes entreprises locales en tant que lieu idéal pour un large éventail d'événements commerciaux. Désormais, le centre d'exposition et de conférence (ECC) de l'UWE Bristol a été utilisé comme hôpital temporaire du NHS traitant Patients COVID-19.";
+
+/* Centre of music info */
+"The Centre of Music is a great resource for musicians, music production, beat-making and DJing. You can Play in groups and take music lessons, book rehearsal rooms and practice rooms. Also be part of a community of passionate musicians and meet new collaborators." = "Le Centre de musique est une excellente ressource pour les musiciens, la production musicale, la création de rythmes et le DJing. Vous pouvez jouer en groupe et prendre des cours de musique, réserver des salles de répétition et des salles de pratique. Faites également partie d'une communauté de musiciens passionnés et rencontrez de nouveaux collaborateurs.";
+
+/* B Block info */
+"In this building, there are plenty of students that study and learn here such as Psychology, Sociology courses and used mainly by the Department of Health and Applied Sciences. Also has a study space called the 'Forum' near C block which is a learning zone on Frenchay Campus that is open to all students." =  "Dans ce bâtiment, il y a beaucoup d'étudiants qui étudient et apprennent ici, comme des cours de psychologie, de sociologie et utilisés principalement par le Département de la santé et des sciences appliquées. Il y a aussi un espace d'étude appelé 'Forum' près du bloc C qui est un apprentissage zone du Campus Frenchay ouverte à tous les étudiants.";
+
+/* Q block info */
+"This building houses the Department of Computer Science and Creative Technology.  This building also has a study space called ‘The Hive’.  Inside, staff and students will be working on exciting new concepts or testing and developing prototypes using the latest technology and simulation equipment." = "Ce bâtiment abrite le Département d'informatique et de technologie créative. Ce bâtiment dispose également d'un espace d'étude appelé 'The Hive'. À l'intérieur, le personnel et les étudiants travailleront sur de nouveaux concepts passionnants ou testeront et développeront des prototypes en utilisant les dernières technologies et équipements de simulation.";
+
+/* R block info */
+"Our award-winning R Block is home to fantastic facilities and inspiring industry-recognised teaching staff. There's all the latest technical equipment, and stunning studio facilities. Here you can make the most of Integrated studios for computer-aided design (CAD). Model-making and drawing resources, Architectural modelling resources and our supportive team will be on-hand to help you make the most of all our industry-standard equipment." = "Notre R Block primé abrite des installations fantastiques et un personnel enseignant inspirant reconnu par l'industrie. Il y a tous les équipements techniques les plus récents et de superbes installations de studio. Ici, vous pouvez tirer le meilleur parti des studios intégrés pour la conception assistée par ordinateur (CAO). Des ressources de modélisation et de dessin, des ressources de modélisation architecturale et notre équipe de soutien seront à votre disposition pour vous aider à tirer le meilleur parti de tous nos équipements standard de l'industrie.";
+
+/* S block info */
+"S Block is the home to our fantastic facilities and resources for learning and teaching High quality teaching rooms. This building is where you can practice in an environment similar to the real schools where you’ll be inspiring young minds." =
+"S Block abrite nos fantastiques installations et ressources pour l'apprentissage et l'enseignement. Des salles d'enseignement de haute qualité. Ce bâtiment est l'endroit où vous pouvez pratiquer dans un environnement similaire aux vraies écoles où vous inspirerez de jeunes esprits.";
+
+/* library*/
+"This block is the D block area. This block contains the library which hosts a large selection of books as well numerous study spaces such as the quiet study zone and silent study zone." = "Ce bloc est la zone du bloc D. Ce bloc contient la bibliothèque qui héberge une grande sélection de livres ainsi que de nombreux espaces d'étude tels que la zone d'étude silencieuse et la zone d'étude silencieuse.";
+
+/* Wallscourt Park info: */
+"Wallscourt Park is similar to the student village but in a different location for you to stay in 1st year. It is a great choice if you want to be close to facilities such as the library and Student Union." = "Wallscourt Park est similaire au village étudiant mais dans un endroit différent pour votre séjour en 1ère année. C'est un excellent choix si vous voulez être à proximité d'installations telles que la bibliothèque et l'Union des étudiants.";
+
+/* BRL info */
+"Bristol Robotics Laboratory (BRL) is a nationally and internationally recognised as a centre of excellence for advanced robotics research." = "Bristol Robotics Laboratory (BRL) est un centre d'excellence reconnu à l'échelle nationale et internationale pour la recherche en robotique avancée.";
+
+/* Student Village info */
+"This is where nearly 3,000 students live in 1st year.  A great choice if you would like to be close to lecture theatres, the Library, computer rooms, The Students’ Union and Centre for Sport." = "C'est là que vivent près de 3 000 étudiants en 1ère année. Un excellent choix si vous souhaitez être proche des amphithéâtres, de la bibliothèque, des salles informatiques, du syndicat des étudiants et du centre des sports.";
+
+/* Business school info */
+"The result of a £55 million vision, the Bristol Business School building is the largest on Frenchay Campus.  Through Bristol Business School’s diverse range of practical courses and research, with national and international links, we deliver an educational experience that enables our students to meet their future career ambitions." = "Résultat d'une vision de 55 millions de livres sterling, le bâtiment de la Bristol Business School est le plus grand du campus de Frenchay. Grâce à la gamme diversifiée de cours pratiques et de recherche de la Bristol Business School, avec des liens nationaux et internationaux, nous offrons une expérience éducative qui permet à nos étudiants de répondre à leurs futures ambitions professionnelles.";
+
+/* Octagon info */
+"The Octagon is a sanctuary space for staff and students where you can relax, read and meet friends. There are rooms available for solo or group prayer, worship, meditation and quiet reflection. There are also a number of books available to enable you to learn and explore your own faith and spirituality, as well as a wellbeing library." = "L'Octogone est un espace sanctuaire pour le personnel et les étudiants où vous pourrez vous détendre, lire et rencontrer des amis. Il y a des salles disponibles pour la prière en solo ou en groupe, le culte, la méditation et la réflexion tranquille. Il existe également un certain nombre de livres disponibles pour vous permettre d'apprendre et d'explorer votre propre foi et votre spiritualité, ainsi qu'une bibliothèque de bien-être.";
+
+/* street cafe */
+"Tasty, quick and exciting street food such as a grab and go service of sandwiches, freshly made baguettes, snacks, pastries, cakes, and hot and cold drinks. Located in S block." = "Cuisine de rue savoureuse, rapide et excitante, comme un service de sandwichs à emporter, des baguettes fraîchement préparées, des collations, des pâtisseries, des gâteaux et des boissons chaudes et froides. Situé dans le bloc S.";
+
+/* the grill info */
+"The enthusiasts of piri piri sauce, serving meals bursting with flavour. Located in B block." = "Les passionnés de la sauce piri piri, des plats pleins de saveurs. Situé dans le bloc B.";
+
+/* starbucks*/
+ "Our drinks range includes a wide range of premium coffees including whole bean and ground coffee, hot chocolate and a range of teas available. Our food range covers breakfast sandwiches/rolls and filled croissants as well as cakes, cookies and pastries to suit everyone’s tastes. Located in E block next to Onezone and library." = "Notre gamme de boissons comprend une large gamme de cafés haut de gamme, y compris du café en grains et moulu, du chocolat chaud et une gamme de thés disponibles. Notre gamme alimentaire comprend des sandwichs/petits pains et des croissants fourrés ainsi que des gâteaux, des biscuits et des pâtisseries pour tous les goûts. . Situé dans le bloc E à côté de Onezone et de la bibliothèque.";
+
+/* wafflemeister */
+"It’s always brunch-time somewhere in the world and there’s no better place to indulge than at Wafflemeister. Located between blocks E/F/N block." = "C'est toujours l'heure du brunch quelque part dans le monde et il n'y a pas de meilleur endroit pour se faire plaisir qu'au Wafflemeister. Situé entre les blocs E/F/N.";
+
+/* the atrium*/
+ "A café with outside seating serving locally sourced food and drink through a full hot a la carte menu, fresh sandwiches, snacks and speciality hot and cold drinks. Located in Bristol Business School Building." = "Un café avec des sièges à l'extérieur servant des plats et des boissons d'origine locale à travers un menu chaud complet à la carte, des sandwichs frais, des collations et des boissons chaudes et froides spécialisées. Situé dans le bâtiment de la Bristol Business School.";
+
+/* SU bar*/
+ "The coffee shop on the upper floor serves Starbucks coffee and fresh sandwiches and panini and the bar serves a wide range of food throughout the day. Located in U block, next to SU building." = "Le café à l'étage supérieur sert du café Starbucks, des sandwichs frais et des paninis et le bar sert une large gamme de plats tout au long de la journée. Situé dans le bloc U, à côté du bâtiment SU.";
+
+/* costa coffee */
+ "Whether you want to wake yourself up with one of our short drinks or relax over a tall drink we’ve got a coffee to suit you. A café with outside seating serving a wide selection of sandwiches and snacks to enjoy on the go. Located in R block." = "Que vous souhaitiez vous réveiller avec l'un de nos short drinks ou vous détendre autour d'un grand verre, nous avons un café qui vous convient. Un café avec des sièges à l'extérieur servant une large sélection de sandwichs et de collations à déguster sur le pouce. Situé dans le bloc R.";
+
+/* onezone*/
+"Serving global cuisine and traditional flavours at unbeatable prices. Located in E block next to the Starbucks and library." = "Servant une cuisine internationale et des saveurs traditionnelles à des prix imbattables. Situé dans le bloc E à côté du Starbucks et de la bibliothèque.";
+
+/* subway */
+ "Subway serves subs, salads and snacks. Located in Q block." = "Subway sert des sous-marins, des salades et des snacks. Situé dans le bloc Q.";
+
+/* SU shop*/
+ "Convenience store stocking student essentials including groceries, health and beauty products, stationery and cards and stamps. This is located in the F block and next to SU building." = "Dépanneur proposant des produits essentiels pour les étudiants, notamment des produits d'épicerie, des produits de santé et de beauté, des articles de papeterie, des cartes et des timbres. Il est situé dans le bloc F et à côté du bâtiment SU.";

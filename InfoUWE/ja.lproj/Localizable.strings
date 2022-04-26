@@ -1,0 +1,300 @@
+/* footer of parking */
+"Access UWE parking areas" = "UWE駐車場へのアクセス";
+
+/* home link of all buildings*/
+"All Buildings" = "すべての建物";
+
+/* home link of all caters*/
+"All Caters" = "すべてのケータリング";
+
+/* Onboarding screen 3 */
+"And view other information such as Restaurants & Cafes!" = "そして、レストラン＆カフェなどの他の情報を表示してください";
+
+/* Apps access footer */
+"Apps access" = "アプリへのアクセス";
+
+/* footer of the shop image */
+"Browse shopping spots" = "ショッピングスポットを閲覧する";
+
+/* Title of buildings */
+"Buildings" = "建物";
+
+/* call */
+"Call" = "電話";
+
+/* campus map text */
+"Campus Map" = "キャンパスマップ";
+
+/* campus parking text */
+"Campus Parking" = "キャンパス駐車場";
+
+/* caters title */
+"Caters" = "仕出し屋";
+
+/* footer of the News image */
+"Check out the latest news about UWE" = "UWEに関する最新ニュースをチェックしてください";
+
+/* footer of the showcase image */
+"Check out the latest work from student graduates" = "学生の卒業生からの最新の作品をチェックしてください";
+
+/* link to contact UWE */
+"Contact Us" = "お問い合わせ";
+
+/* email */
+"Email" = "Eメール";
+
+/* event text */
+"Events" = "イベント";
+
+/* explore tab */
+"Explore" = "探検";
+
+/* footer of the event text */
+"Explore upcoming events and things to do around UWE" = "今後のイベントやUWE周辺でやるべきことを探る";
+
+/* onboarding screen 3 */
+"Explore!" = "探検！";
+
+/* header of the showcase text */
+"Featured" = "特徴";
+
+/* onboarding screen 2 */
+"Find your way!" = "あなたの道を見つけてください！";
+
+/* facebook */
+"Follow us on Facebook" = "フェースブックでフォローして";
+
+/* insta */
+"Follow us on Instagram" = "Instagramでフォローしてください";
+
+/* header of follow us on socials */
+"Follow us on our socials" = "私たちの社会で私たちに従ってください";
+
+/* twitter */
+"Follow us on Twitter" = "Twitterでフォローします";
+
+/* get started button */
+"Get Started" = "はじめに";
+
+/* get around text */
+"Getting Around" = "歩き回っている";
+
+/* footer of help services */
+"Help support services" = "ヘルプサポートサービス";
+
+/* helpful resources text */
+"Helpful Resources" = "役立つリソース";
+
+/* onboarding screen 2 */
+"Here you can find information about UWE buildings!" = "ここでは、UWEの建物に関する情報を見つけることができます！";
+
+/* home tab */
+"Home" = "家";
+
+/* onboarding info again text */
+"If you want, you can tap to see the onboarding screen again." = "必要に応じて、タップしてオンボーディング画面をもう一度表示できます。";
+
+/* info hub link */
+"Info Hub" = "情報ハブ";
+
+/* footer of transport image */
+"Information about transport" = "輸送に関する情報";
+
+/* info point link */
+"Information Point" = "インフォメーションポイント";
+
+/* IT services link */
+"IT services" = "ITサービス";
+
+/* weather info */
+"It's currently %@ at UWE %@, with a high of %@ today." = "現在、UWE %@ では %@ で、今日は %@ が高くなります。";
+
+
+/* Learn more button */
+"Learn more" = "もっと詳しく知る";
+
+/* Map of building tab */
+"Map of Buildings" = "建物の地図";
+
+/* map of cater tab */
+"Map of Caters" = "仕出し屋の地図";
+
+/* more apps text */
+"More apps" = "より多くのアプリケーション";
+
+/* more to explore text */
+"More to explore" = "もっと探検する";
+
+/* News text of news image */
+"News" = "ニュース";
+
+/* Next button */
+"Next" = "次";
+
+/* comment in settings about onboarding */
+"Onboarding screen?" = "オンボーディング画面？";
+
+/* footer of important resources */
+"Quickly access important resources" = "重要なリソースにすばやくアクセスする";
+
+/* detail view read more uwe link */
+"Read more on UWE Website" = "UWEウェブサイトで詳細を読む";
+
+/* restart text header */
+"Restart" = "再起動";
+
+/* restart app info*/
+"Restart app" = "アプリを再起動します";
+
+/* safety info text */
+"Safety info" = "安全情報";
+
+/* search bar for buildings */
+"Search for buildings" = "建物を検索する";
+
+/* search bar for caters*/
+"Search for caters" = "仕出し屋を探す";
+
+/* footer of campus map */
+"Searchable UWE map" = "検索可能なUWEマップ";
+
+/* settings tab */
+"Settings" = "設定";
+
+/* shop title */
+"Shops" = "ショップ";
+
+/* showcase text */
+"Showcase" = "ショーケース";
+
+/* staff directory link */
+"Staff directory" = "スタッフディレクトリ";
+
+/* top header of news image */
+"Stay In The Know" = "知っておく";
+
+/* blog title */
+"Student blogs" = "学生ブログ";
+
+/* student service link */
+"Student services" = "学生サービス";
+
+/* footer of the title */
+"Students experience at UWE" = "学生はUWEで経験します";
+
+/* transport text */
+"Transport" = "輸送";
+
+/* header of urgent assistance text */
+"Urgent assistance - Please call or email and we will assist you, runs 24/7, 365 days a year" = "緊急の支援-電話またはメールでお問い合わせください。24時間年中無休でサポートいたします。";
+
+/* title of the side menu */
+"Useful Information" = "有用な情報";
+
+/* view all buildings navigation link when tapped */
+"View all buildings ➡️ " = "すべての建物を表示➡️";
+
+/* view all caters navigation link when tapped */
+"View all caters ➡️" = "すべてのケータリングを表示➡️";
+
+/* detail view directions to building  */
+"View direction to the building 📍" = "建物への方向を表示📍";
+
+/* detail view directions to cater  */
+"View direction to the cater 📍" = "仕出し屋への方向を見る📍";
+
+/* onboarding screen info page 1 */
+"Welcome To InfoUWE!" = "InfoUWEへようこそ！";
+
+/* greetings */
+"Welcome!" = "いらっしゃいませ！";
+
+/* Well being text */
+"Well-being" = "幸福";
+
+/* header of the events image */
+"What's Happening" = "何が起こっていますか";
+
+/* onboarding screen info page 2 */
+"You can also be navigated to the selected building!" = "選択した建物に移動することもできます！";
+
+/* restarted toggle */
+"RESTARTED" = "再起動しました";
+
+/* tap to restart toggle */
+"TAP TO RESTART" = "タップして再起動";
+
+/* Student Union information */
+"We’ve invested £10m to create a new energy-efficient building for the Students’ Union at UWE on our Frenchay Campus, designed to improve the experience of our students with enhanced facilities, spaces and easier to access services." = "フレンチヘイキャンパスにあるUWEの学生連合のために、1,000万ポンドを投資して、設備、スペースを強化し、サービスにアクセスしやすくすることで、学生の体験を向上させるように設計された、エネルギー効率の高い新しい建物を作成しました。";
+
+/* Engineering block info*/
+"Home to specialist laboratories, workshops and digital engineering facilities, the building has been designed to complement our practice-based curriculum – bringing engineering to life through real world problems. As a student you can expect live industry briefs and the experience to build an enterprising skill set, so you’re set up to graduate with business acumen and technical qualifications." = "専門の研究所、ワークショップ、デジタルエンジニアリング施設の本拠地であるこの建物は、実践ベースのカリキュラムを補完するように設計されており、現実世界の問題を通じてエンジニアリングに命を吹き込みます。 学生として、ライブの業界ブリーフと進取的なスキルセットを構築する経験を期待できるため、ビジネスの洞察力と技術的な資格を取得して卒業する準備ができています。";
+
+/* Centre of Sport info*/
+"This fantastic £5.5 million facility caters for all abilities and competitive natures.  At our Centre of Sport, you’ll find everything from climbing walls to squash courts, football pitches to fitness studios. And whether you are an elite athlete or a total beginner there is something here for you. We know just how important it is to stay fit and healthy. It not only boosts energy levels and focuses the mind but it also helps you to de-stress and feel happier." = "この素晴らしい550万ポンドの施設は、すべての能力と競争力に対応しています。 センターオブスポーツでは、クライミングウォールからスカッシュコート、サッカー場、フィットネススタジオまであらゆるものを見つけることができます。 そして、あなたがエリートアスリートであろうと全くの初心者であろうと、ここにはあなたのための何かがあります。 私たちは、健康で健康を維持することがいかに重要であるかを知っています。 エネルギーレベルを高め、心を集中させるだけでなく、ストレスを解消して幸せに感じるのにも役立ちます。";
+
+/* ECC info */
+"The UWE ECC, launched in December 2009, is quickly building a reputation amongst major local business as the ideal location for a wide range of business events. Now UWE Bristol's Exhibition and Conference Centre (ECC) has been used as a temporary NHS hospital treating COVID-19 patients." = "2009年12月に立ち上げられたUWEECCは、さまざまなビジネスイベントに理想的な場所として、地元の主要ビジネスの間で急速に評判を築いています。 現在、UWEブリストルの展示会議センター（ECC）は、COVID-19患者を治療する一時的なNHS病院として使用されています。";
+
+/* Centre of music info */
+"The Centre of Music is a great resource for musicians, music production, beat-making and DJing. You can Play in groups and take music lessons, book rehearsal rooms and practice rooms. Also be part of a community of passionate musicians and meet new collaborators." = "Center of Musicは、ミュージシャン、音楽制作、ビート作成、DJのための優れたリソースです。 グループで演奏したり、音楽のレッスンを受けたり、リハーサル室や練習室を予約したりできます。 また、情熱的なミュージシャンのコミュニティの一員になり、新しい協力者に会いましょう。";
+
+/* B Block info */
+"In this building, there are plenty of students that study and learn here such as Psychology, Sociology courses and used mainly by the Department of Health and Applied Sciences. Also has a study space called the 'Forum' near C block which is a learning zone on Frenchay Campus that is open to all students." =  "この建物には、心理学、社会学のコースなど、ここで勉強して学ぶ学生がたくさんいて、主に保健応用科学科で使用されています。 また、Frenchayキャンパスの学習ゾーンであるCブロックの近くに「フォーラム」と呼ばれる学習スペースがあり、すべての学生が利用できます。";
+
+/* Q block info */
+"This building houses the Department of Computer Science and Creative Technology.  This building also has a study space called ‘The Hive’.  Inside, staff and students will be working on exciting new concepts or testing and developing prototypes using the latest technology and simulation equipment." = "この建物には、心理学、社会学のコースなど、ここで勉強して学ぶ学生がたくさんいて、主に保健応用科学科で使用されています。 また、Frenchayキャンパスの学習ゾーンであるCブロックの近くに「フォーラム」と呼ばれる学習スペースがあり、すべての学生が利用できます。";
+
+/* R block info */
+"Our award-winning R Block is home to fantastic facilities and inspiring industry-recognised teaching staff. There's all the latest technical equipment, and stunning studio facilities. Here you can make the most of Integrated studios for computer-aided design (CAD). Model-making and drawing resources, Architectural modelling resources and our supportive team will be on-hand to help you make the most of all our industry-standard equipment." = "受賞歴のあるRブロックには、素晴らしい施設と刺激的な業界で認められた教育スタッフがいます。 すべての最新の技術設備と見事なスタジオ設備があります。 ここでは、コンピューター支援設計（CAD）用の統合スタジオを最大限に活用できます。 モデル作成および描画リソース、建築モデリングリソース、およびサポートチームが、業界標準のすべての機器を最大限に活用できるように支援します。";
+
+/* S block info */
+"S Block is the home to our fantastic facilities and resources for learning and teaching High quality teaching rooms. This building is where you can practice in an environment similar to the real schools where you’ll be inspiring young minds." = "Sブロックは、高品質の教育室を学び、教えるための素晴らしい施設とリソースの本拠地です。 この建物は、若い心を刺激する実際の学校と同様の環境で練習できる場所です。";
+
+/* library*/
+"This block is the D block area. This block contains the library which hosts a large selection of books as well numerous study spaces such as the quiet study zone and silent study zone." = "このブロックはDブロック領域です。 このブロックには、さまざまな本のほか、静かな学習ゾーンや静かな学習ゾーンなどの多数の学習スペースをホストするライブラリが含まれています。";
+
+/* Wallscourt Park info: */
+"Wallscourt Park is similar to the student village but in a different location for you to stay in 1st year. It is a great choice if you want to be close to facilities such as the library and Student Union." = "ウォールスコートパークは学生の村に似ていますが、1年目に滞在する場所が異なります。 図書館や学生自治会などの施設の近くにいたい場合に最適です。";
+
+/* BRL info */
+"Bristol Robotics Laboratory (BRL) is a nationally and internationally recognised as a centre of excellence for advanced robotics research." = "ブリストルロボティクスラボラトリー（BRL）は、高度なロボティクス研究の卓越した研究拠点として国内および国際的に認められています。";
+
+/* Student Village info */
+"This is where nearly 3,000 students live in 1st year.  A great choice if you would like to be close to lecture theatres, the Library, computer rooms, The Students’ Union and Centre for Sport." = "これは、1年目に約3,000人の学生が住んでいる場所です。 講義室、図書館、コンピューター室、学生自治会、スポーツセンターの近くに滞在したい場合に最適です。";
+
+/* Business school info */
+"The result of a £55 million vision, the Bristol Business School building is the largest on Frenchay Campus.  Through Bristol Business School’s diverse range of practical courses and research, with national and international links, we deliver an educational experience that enables our students to meet their future career ambitions." = "5,500万ポンドのビジョンの結果、ブリストルビジネススクールの建物はフレンチヘイキャンパスで最大です。 ブリストルビジネススクールの多様な実践的なコースと研究を通じて、国内および国際的なつながりを持ち、学生が将来のキャリアの野心を満たすことを可能にする教育体験を提供します。";
+
+/* Octagon info */
+"The Octagon is a sanctuary space for staff and students where you can relax, read and meet friends. There are rooms available for solo or group prayer, worship, meditation and quiet reflection. There are also a number of books available to enable you to learn and explore your own faith and spirituality, as well as a wellbeing library." = "オクタゴンは、リラックスしたり、読んだり、友達に会ったりできるスタッフと学生のための聖域です。 一人またはグループでの祈り、礼拝、瞑想、静かな反射に利用できる部屋があります。 あなたがあなた自身の信仰と精神性を学びそして探求することを可能にするために利用可能な多くの本、そして幸福の図書館もあります。";
+
+/* street cafe */
+"Tasty, quick and exciting street food such as a grab and go service of sandwiches, freshly made baguettes, snacks, pastries, cakes, and hot and cold drinks. Located in S block." = "サンドイッチ、作りたてのバゲット、スナック、ペストリー、ケーキ、温かい飲み物と冷たい飲み物のグラブアンドゴーサービスなど、おいしくて素早くエキサイティングな屋台の食べ物。 Sブロックにあります。";
+
+/* the grill info */
+"The enthusiasts of piri piri sauce, serving meals bursting with flavour. Located in B block." = "ピリピリソースの愛好家は、風味豊かな食事を提供しています。 Bブロックにあります。";
+
+/* starbucks*/
+ "Our drinks range includes a wide range of premium coffees including whole bean and ground coffee, hot chocolate and a range of teas available. Our food range covers breakfast sandwiches/rolls and filled croissants as well as cakes, cookies and pastries to suit everyone’s tastes. Located in E block next to Onezone and library." = "私たちの飲み物の範囲には、豆全体と挽いたコーヒー、ホットチョコレート、さまざまなお茶など、さまざまなプレミアムコーヒーが含まれます。 私たちの料理の範囲は、朝食のサンドイッチ/ロールパン、クロワッサンのほか、ケーキ、クッキー、ペストリーなど、すべての人の好みに合うものです。 Onezoneとライブラリの隣のEブロックにあります。";
+
+/* wafflemeister */
+"It’s always brunch-time somewhere in the world and there’s no better place to indulge than at Wafflemeister. Located between blocks E/F/N block." = "それは常に世界のどこかでブランチタイムであり、ワッフルマイスターよりもふけるのに最適な場所はありません。 ブロックE / F / Nブロックの間にあります。";
+
+/* the atrium*/
+ "A café with outside seating serving locally sourced food and drink through a full hot a la carte menu, fresh sandwiches, snacks and speciality hot and cold drinks. Located in Bristol Business School Building." = "地元の食材を使った食べ物や飲み物をフルホットアラカルトメニュー、新鮮なサンドイッチ、スナック、特製のホット＆コールドドリンクで提供する屋外席のあるカフェ。 ブリストルビジネススクールビルにあります。";
+
+/* SU bar*/
+ "The coffee shop on the upper floor serves Starbucks coffee and fresh sandwiches and panini and the bar serves a wide range of food throughout the day. Located in U block, next to SU building." = "地元の食材を使った食べ物や飲み物をフルホットアラカルトメニュー、新鮮なサンドイッチ、スナック、特製のホット＆コールドドリンクで提供する屋外席のあるカフェ。 ブリストルビジネススクールビルにあります。";
+
+/* costa coffee */
+ "Whether you want to wake yourself up with one of our short drinks or relax over a tall drink we’ve got a coffee to suit you. A café with outside seating serving a wide selection of sandwiches and snacks to enjoy on the go. Located in R block." = "ショートドリンクで目覚めたい場合でも、トールドリンクでリラックスしたい場合でも、お客様にぴったりのコーヒーをご用意しています。 外出先で楽しめるサンドイッチや軽食を幅広く取り揃えた屋外席のあるカフェ。 Rブロックにあります。";
+
+/* onezone*/
+"Serving global cuisine and traditional flavours at unbeatable prices. Located in E block next to the Starbucks and library." = "世界各国の料理と伝統的な味を最高の価格で提供しています。 スターバックスと図書館の隣のEブロックにあります。";
+
+/* subway */
+ "Subway serves subs, salads and snacks. Located in Q block." = "地下鉄では、潜水艦、サラダ、軽食を提供しています。 Qブロックにあります。";
+
+/* SU shop*/
+ "Convenience store stocking student essentials including groceries, health and beauty products, stationery and cards and stamps. This is located in the F block and next to SU building." = "食料品、健康と美容製品、文房具、カード、切手などの学生の必需品を取り揃えたコンビニエンスストア。 これはFブロックにあり、SUビルの隣にあります。";

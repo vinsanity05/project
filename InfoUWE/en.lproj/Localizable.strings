@@ -1,0 +1,304 @@
+/* footer of parking */
+"Access UWE parking areas" = "Access UWE parking areas";
+
+/* home link of all buildings*/
+"All Buildings" = "All Buildings";
+
+/* home link of all caters*/
+"All Caters" = "All Caters";
+
+/* Onboarding screen 3 */
+"And view other information such as Restaurants & Cafes!" = "And view other information such as Restaurants & Cafes!";
+
+/* Apps access footer */
+"Apps access" = "Apps access";
+
+/* footer of the shop image */
+"Browse shopping spots" = "Browse shopping spots";
+
+/* Title of buildings */
+"Buildings" = "Buildings";
+
+/* call */
+"Call" = "Call";
+
+/* campus map text */
+"Campus Map" = "Campus Map";
+
+/* campus parking text */
+"Campus Parking" = "Campus Parking";
+
+/* caters title */
+"Caters" = "Caters";
+
+/* footer of the News image */
+"Check out the latest news about UWE" = "Check out the latest news about UWE";
+
+/* footer of the showcase image */
+"Check out the latest work from student graduates" = "Check out the latest work from student graduates";
+
+/* link to contact UWE */
+"Contact Us" = "Contact Us";
+
+/* email */
+"Email" = "Email";
+
+/* event text */
+"Events" = "Events";
+
+/* explore tab */
+"Explore" = "Explore";
+
+/* footer of the event text */
+"Explore upcoming events and things to do around UWE" = "Explore upcoming events and things to do around UWE";
+
+/* explore tab */
+"Explore!" = "Explore!";
+
+/* header of the showcase text */
+"Featured" = "Featured";
+
+/* onboarding screen 2*/
+"Find your way!" = "Find your way!";
+
+/* facebook */
+"Follow us on Facebook" = "Follow us on Facebook";
+
+/* insta */
+"Follow us on Instagram" = "Follow us on Instagram";
+
+/* header of follow us on socials */
+"Follow us on our socials" = "Follow us on our socials";
+
+/* twitter */
+"Follow us on Twitter" = "Follow us on Twitter";
+
+/* get started button */
+"Get Started" = "Get Started";
+
+/* get around text */
+"Getting Around" = "Getting Around";
+
+/* footer of help services */
+"Help support services" = "Help support services";
+
+/* helpful resources text */
+"Helpful Resources" = "Helpful Resources";
+
+/* onboarding screen 2 */
+"Here you can find information about UWE buildings!" = "Here you can find information about UWE buildings!";
+
+/* home tab */
+"Home" = "Home";
+
+/* onboarding info again text */
+"If you want, you can tap to see the onboarding screen again." = "If you want, you can tap to see the onboarding screen again.";
+
+/* info hub link */
+"Info Hub" = "Info Hub";
+
+/* footer of transport image */
+"Information about transport" = "Information about transport";
+
+/* info point link */
+"Information Point" = "Information Point";
+
+/* IT services link */
+"IT services" = "IT services";
+
+/* weather info */
+"It's currently %@ at UWE %@, with a high of %@ today." = "It's currently %@ at UWE %@, with a high of %@ today.";
+
+/* Learn more button */
+"Learn more" = "Learn more";
+
+/* Map of building tab */
+"Map of Buildings" = "Map of Buildings";
+
+/* map of cater tab */
+"Map of Caters" = "Map of Caters";
+
+/* more apps text */
+"More apps" = "More apps";
+
+/* more to explore text */
+"More to explore" = "More to explore";
+
+/* News text of news image */
+"News" = "News";
+
+/* Next button */
+"Next" = "Next";
+
+/* comment in settings about onboarding */
+"Onboarding screen?" = "Onboarding screen?";
+
+/* footer of important resources */
+"Quickly access important resources" = "Quickly access important resources";
+
+/* detail view read more uwe link */
+"Read more on UWE Website" = "Read more on UWE Website";
+
+/* restart text header */
+"Restart" = "Restart";
+
+/* restart app info*/
+"Restart app" = "Restart app";
+
+/* safety info text */
+"Safety info" = "Safety info";
+
+/* search bar for buildings */
+"Search for buildings" = "Search for buildings";
+
+/* search bar for caters */
+"Search for caters" = "Search for caters";
+
+/* footer of campus map */
+"Searchable UWE map" = "Searchable UWE map";
+
+/* settings tab */
+"Settings" = "Settings";
+
+/* shop title */
+"Shops" = "Shops";
+
+/* showcase text */
+"Showcase" = "Showcase";
+
+/* staff directory link */
+"Staff directory" = "Staff directory";
+
+/* top header of news image */
+"Stay In The Know" = "Stay In The Know";
+
+/* blog title */
+"Student blogs" = "Student blogs";
+
+/* student service link */
+"Student services" = "Student services";
+
+/* footer of the title */
+"Students experience at UWE" = "Students experience at UWE";
+
+/* transport text */
+"Transport" = "Transport";
+
+/* header of urgent assistance text */
+"Urgent assistance - Please call or email and we will assist you, runs 24/7, 365 days a year" = "Urgent assistance - Please call or email and we will assist you, runs 24/7, 365 days a year";
+
+/* title of the side menu */
+"Useful Information" = "Useful Information";
+
+/* view all buildings navigation link when tapped */
+"View all buildings ➡️ " = "View all buildings ➡️";
+
+/* view all caters navigation link when tapped */
+"View all caters ➡️" = "View all caters ➡️";
+
+/* detail view directions to building  */
+"View direction to the building 📍" = "View direction to the building 📍";
+
+/* detail view directions to cater  */
+"View direction to the cater 📍" = "View direction to the cater 📍";
+
+/* onboarding screen info page 1 */
+"Welcome To InfoUWE!" = "Welcome To InfoUWE!";
+
+/* greetings */
+"Welcome!" = "Welcome!";
+
+/* Well being text */
+"Well-being" = "Well-being";
+
+/* header of the events image */
+"What's Happening" = "What's Happening";
+
+/* onboarding screen info page 2 */
+"You can also be navigated to the selected building!" = "You can also be navigated to the selected building!";
+
+/* restarted toggle */
+"RESTARTED" = "RESTARTED";
+
+/* tap to restart toggle */
+"TAP TO RESTART" = "TAP TO RESTART";
+
+/* Student Union information */
+"We’ve invested £10m to create a new energy-efficient building for the Students’ Union at UWE on our Frenchay Campus, designed to improve the experience of our students with enhanced facilities, spaces and easier to access services." = "We’ve invested £10m to create a new energy-efficient building for the Students’ Union at UWE on our Frenchay Campus, designed to improve the experience of our students with enhanced facilities, spaces and easier to access services.";
+
+/* Engineering block info*/
+"Home to specialist laboratories, workshops and digital engineering facilities, the building has been designed to complement our practice-based curriculum – bringing engineering to life through real world problems. As a student you can expect live industry briefs and the experience to build an enterprising skill set, so you’re set up to graduate with business acumen and technical qualifications." = "Home to specialist laboratories, workshops and digital engineering facilities, the building has been designed to complement our practice-based curriculum – bringing engineering to life through real world problems. As a student you can expect live industry briefs and the experience to build an enterprising skill set, so you’re set up to graduate with business acumen and technical qualifications.";
+
+/* Centre of Sport info*/
+"This fantastic £5.5 million facility caters for all abilities and competitive natures.  At our Centre of Sport, you’ll find everything from climbing walls to squash courts, football pitches to fitness studios. And whether you are an elite athlete or a total beginner there is something here for you. We know just how important it is to stay fit and healthy. It not only boosts energy levels and focuses the mind but it also helps you to de-stress and feel happier." = "This fantastic £5.5 million facility caters for all abilities and competitive natures.  At our Centre of Sport, you’ll find everything from climbing walls to squash courts, football pitches to fitness studios. And whether you are an elite athlete or a total beginner there is something here for you. We know just how important it is to stay fit and healthy. It not only boosts energy levels and focuses the mind but it also helps you to de-stress and feel happier.";
+
+/* ECC info */
+"The UWE ECC, launched in December 2009, is quickly building a reputation amongst major local business as the ideal location for a wide range of business events. Now UWE Bristol's Exhibition and Conference Centre (ECC) has been used as a temporary NHS hospital treating COVID-19 patients." = "The UWE ECC, launched in December 2009, is quickly building a reputation amongst major local business as the ideal location for a wide range of business events. Now UWE Bristol's Exhibition and Conference Centre (ECC) has been used as a temporary NHS hospital treating COVID-19 patients.";
+
+/* Centre of music info */
+"The Centre of Music is a great resource for musicians, music production, beat-making and DJing. You can Play in groups and take music lessons, book rehearsal rooms and practice rooms. Also be part of a community of passionate musicians and meet new collaborators." = "The Centre of Music is a great resource for musicians, music production, beat-making and DJing. You can Play in groups and take music lessons, book rehearsal rooms and practice rooms. Also be part of a community of passionate musicians and meet new collaborators.";
+
+/* B Block info */
+"In this building, there are plenty of students that study and learn here such as Psychology, Sociology courses and used mainly by the Department of Health and Applied Sciences. Also has a study space called the 'Forum' near C block which is a learning zone on Frenchay Campus that is open to all students." =  "In this building, there are plenty of students that study and learn here such as Psychology, Sociology courses and used mainly by the Department of Health and Applied Sciences. Also has a study space called the 'Forum' near C block which is a learning zone on Frenchay Campus that is open to all students.";
+
+/* Q block info */
+"This building houses the Department of Computer Science and Creative Technology.  This building also has a study space called ‘The Hive’.  Inside, staff and students will be working on exciting new concepts or testing and developing prototypes using the latest technology and simulation equipment." = "This building houses the Department of Computer Science and Creative Technology.  This building also has a study space called ‘The Hive’.  Inside, staff and students will be working on exciting new concepts or testing and developing prototypes using the latest technology and simulation equipment.";
+
+/* R block info */
+"Our award-winning R Block is home to fantastic facilities and inspiring industry-recognised teaching staff. There's all the latest technical equipment, and stunning studio facilities. Here you can make the most of Integrated studios for computer-aided design (CAD). Model-making and drawing resources, Architectural modelling resources and our supportive team will be on-hand to help you make the most of all our industry-standard equipment." = "Our award-winning R Block is home to fantastic facilities and inspiring industry-recognised teaching staff. There's all the latest technical equipment, and stunning studio facilities. Here you can make the most of Integrated studios for computer-aided design (CAD). Model-making and drawing resources, Architectural modelling resources and our supportive team will be on-hand to help you make the most of all our industry-standard equipment.";
+
+/* S block info */
+"S Block is the home to our fantastic facilities and resources for learning and teaching High quality teaching rooms. This building is where you can practice in an environment similar to the real schools where you’ll be inspiring young minds." = "S Block is the home to our fantastic facilities and resources for learning and teaching High quality teaching rooms. This building is where you can practice in an environment similar to the real schools where you’ll be inspiring young minds.";
+
+/* library*/
+"This block is the D block area. This block contains the library which hosts a large selection of books as well numerous study spaces such as the quiet study zone and silent study zone." = "This block is the D block area. This block contains the library which hosts a large selection of books as well numerous study spaces such as the quiet study zone and silent study zone.";
+
+/* Wallscourt Park info: */
+"Wallscourt Park is similar to the student village but in a different location for you to stay in 1st year. It is a great choice if you want to be close to facilities such as the library and Student Union." = "Wallscourt Park is similar to the student village but in a different location for you to stay in 1st year. It is a great choice if you want to be close to facilities such as the library and Student Union.";
+
+/* BRL info */
+"Bristol Robotics Laboratory (BRL) is a nationally and internationally recognised as a centre of excellence for advanced robotics research." = "Bristol Robotics Laboratory (BRL) is a nationally and internationally recognised as a centre of excellence for advanced robotics research.";
+
+/* Student Village info */
+"This is where nearly 3,000 students live in 1st year.  A great choice if you would like to be close to lecture theatres, the Library, computer rooms, The Students’ Union and Centre for Sport." = "This is where nearly 3,000 students live in 1st year.  A great choice if you would like to be close to lecture theatres, the Library, computer rooms, The Students’ Union and Centre for Sport.";
+
+/* Business school info */
+"The result of a £55 million vision, the Bristol Business School building is the largest on Frenchay Campus.  Through Bristol Business School’s diverse range of practical courses and research, with national and international links, we deliver an educational experience that enables our students to meet their future career ambitions." = "The result of a £55 million vision, the Bristol Business School building is the largest on Frenchay Campus.  Through Bristol Business School’s diverse range of practical courses and research, with national and international links, we deliver an educational experience that enables our students to meet their future career ambitions.";
+
+/* Octagon info */
+"The Octagon is a sanctuary space for staff and students where you can relax, read and meet friends. There are rooms available for solo or group prayer, worship, meditation and quiet reflection. There are also a number of books available to enable you to learn and explore your own faith and spirituality, as well as a wellbeing library." = "The Octagon is a sanctuary space for staff and students where you can relax, read and meet friends. There are rooms available for solo or group prayer, worship, meditation and quiet reflection. There are also a number of books available to enable you to learn and explore your own faith and spirituality, as well as a wellbeing library.";
+
+/* street cafe */
+"Tasty, quick and exciting street food such as a grab and go service of sandwiches, freshly made baguettes, snacks, pastries, cakes, and hot and cold drinks. Located in S block." = "Tasty, quick and exciting street food such as a grab and go service of sandwiches, freshly made baguettes, snacks, pastries, cakes, and hot and cold drinks. Located in S block.";
+
+/* the grill info */
+"The enthusiasts of piri piri sauce, serving meals bursting with flavour. Located in B block." = "The enthusiasts of piri piri sauce, serving meals bursting with flavour. Located in B block.";
+
+/* starbucks*/
+ "Our drinks range includes a wide range of premium coffees including whole bean and ground coffee, hot chocolate and a range of teas available. Our food range covers breakfast sandwiches/rolls and filled croissants as well as cakes, cookies and pastries to suit everyone’s tastes. Located in E block next to Onezone and library." =  "Our drinks range includes a wide range of premium coffees including whole bean and ground coffee, hot chocolate and a range of teas available. Our food range covers breakfast sandwiches/rolls and filled croissants as well as cakes, cookies and pastries to suit everyone’s tastes. Located in E block next to Onezone and library.";
+
+/* wafflemeister */
+"It’s always brunch-time somewhere in the world and there’s no better place to indulge than at Wafflemeister. Located between blocks E/F/N block." = "It’s always brunch-time somewhere in the world and there’s no better place to indulge than at Wafflemeister. Located between blocks E/F/N block.";
+
+/* the atrium*/
+ "A café with outside seating serving locally sourced food and drink through a full hot a la carte menu, fresh sandwiches, snacks and speciality hot and cold drinks. Located in Bristol Business School Building." =  "A café with outside seating serving locally sourced food and drink through a full hot a la carte menu, fresh sandwiches, snacks and speciality hot and cold drinks. Located in Bristol Business School Building.";
+
+/* SU bar*/
+ "The coffee shop on the upper floor serves Starbucks coffee and fresh sandwiches and panini and the bar serves a wide range of food throughout the day. Located in U block, next to SU building." =  "The coffee shop on the upper floor serves Starbucks coffee and fresh sandwiches and panini and the bar serves a wide range of food throughout the day. Located in U block, next to SU building.";
+
+/* costa coffee */
+ "Whether you want to wake yourself up with one of our short drinks or relax over a tall drink we’ve got a coffee to suit you. A café with outside seating serving a wide selection of sandwiches and snacks to enjoy on the go. Located in R block." =  "Whether you want to wake yourself up with one of our short drinks or relax over a tall drink we’ve got a coffee to suit you. A café with outside seating serving a wide selection of sandwiches and snacks to enjoy on the go. Located in R block.";
+
+/* onezone*/
+"Serving global cuisine and traditional flavours at unbeatable prices. Located in E block next to the Starbucks and library." = "Serving global cuisine and traditional flavours at unbeatable prices. Located in E block next to the Starbucks and library.";
+
+/* subway */
+ "Subway serves subs, salads and snacks. Located in Q block." =  "Subway serves subs, salads and snacks. Located in Q block.";
+
+/* SU shop*/
+ "Convenience store stocking student essentials including groceries, health and beauty products, stationery and cards and stamps. This is located in the F block and next to SU building." = "Convenience store stocking student essentials including groceries, health and beauty products, stationery and cards and stamps. This is located in the F block and next to SU building.";
+
+
+
+
+

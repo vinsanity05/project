@@ -1,0 +1,301 @@
+/* footer of parking */
+"Access UWE parking areas" = "الوصول إلى أماكن وقوف السيارات في UWE";
+
+/* home link of all buildings */
+"All Buildings" = "جميع المباني";
+
+/* home link of all caters */
+"All Caters" = "جميع خدمات تقديم الطعام";
+
+/* Onboarding screen 3 */
+"And view other information such as Restaurants & Cafes!" = "وعرض معلومات أخرى مثل المطاعم والكافيهات!";
+
+/* Apps access footer */
+"Apps access" = "الوصول إلى التطبيقات";
+
+/* footer of the shop image */
+"Browse shopping spots" = "تصفح مراكز التسوق";
+
+/* Title of buildings */
+"Buildings" = "البنايات";
+
+/* call */
+"Call" = "يتصل";
+
+/* campus map text */
+"Campus Map" = "خريطة الحرم الجامعي";
+
+/* campus parking text */
+"Campus Parking" = "وقوف السيارات في الحرم الجامعي";
+
+/* caters title */
+"Caters" = "يقدم الطعام";
+
+/* footer of the News image */
+"Check out the latest news about UWE" = "تحقق من آخر الأخبار حول UWE";
+
+/* footer of the showcase image */
+"Check out the latest work from student graduates" = "تحقق من أحدث عمل من الطلاب المتخرجين";
+
+/* link to contact UWE */
+"Contact Us" = "اتصل بنا";
+
+/* email */
+"Email" = "البريد الإلكتروني";
+
+/* event text */
+"Events" = "الأحداث";
+
+/* explore tab */
+"Explore" = "يكتشف";
+
+/* footer of the event text */
+"Explore upcoming events and things to do around UWE" = "استكشف الأحداث القادمة والأشياء التي يمكنك القيام بها حول UWE";
+
+/* Onboarding screen 3 */
+"Explore!" = "يستكشف!";
+
+/* header of the showcase text */
+"Featured" = "متميز";
+
+/* onboarding screen 2 */
+"Find your way!" = "جد طريقك!";
+
+/* facebook */
+"Follow us on Facebook" = "تابعنا على الفيسبوك";
+
+/* insta */
+"Follow us on Instagram" = "متابعتنا على الانستقرام";
+
+/* header of follow us on socials */
+"Follow us on our socials" = "تابعنا على مواقعنا الاجتماعية";
+
+/* twitter */
+"Follow us on Twitter" = "تابعنا على تويتر";
+
+/* get started button */
+"Get Started" = "البدء";
+
+/* get around text */
+"Getting Around" = "التجوال حول";
+
+/* footer of help services */
+"Help support services" = "مساعدة خدمات الدعم";
+
+/* helpful resources text */
+"Helpful Resources" = "موارد مفيدة";
+
+/* onboarding screen 2 */
+"Here you can find information about UWE buildings!" = "هنا يمكنك العثور على معلومات حول مباني UWE!";
+
+/* home tab */
+"Home" = "الصفحة الرئيسية";
+
+/* onboarding info again text */
+"If you want, you can tap to see the onboarding screen again." = "إذا كنت تريد ، يمكنك النقر لرؤية شاشة الإعداد مرة أخرى.";
+
+/* info hub link */
+"Info Hub" = "مركز المعلومات";
+
+/* footer of transport image */
+"Information about transport" = "معلومات عن النقل";
+
+/* info point link */
+"Information Point" = "نقطة المعلومات";
+
+/* IT services link */
+"IT services" = "خدمات تكنولوجيا المعلومات";
+
+/* weather info */
+"It's currently %@ at UWE %@, with a high of %@ today." = "
+إنه حاليا %@ في UWE %@، مع ارتفاع %@ اليوم.";
+
+/* Learn more button */
+"Learn more" = "يتعلم أكثر";
+
+/* Map of building tab */
+"Map of Buildings" = "خريطة المباني";
+
+/* map of cater tab */
+"Map of Caters" = "خريطة كاترس";
+
+/* more apps text */
+"More apps" = "تطبيقات أكثر";
+
+/* more to explore text */
+"More to explore" = "المزيد للاستكشاف";
+
+/* News text of news image */
+"News" = "الإخبارية";
+
+/* Next button */
+"Next" = "التالي";
+
+/* comment in settings about onboarding */
+"Onboarding screen?" = "شاشة Onboarding؟";
+
+/* footer of important resources */
+"Quickly access important resources" = "الوصول بسرعة إلى الموارد الهامة";
+
+/* detail view read more uwe link */
+"Read more on UWE Website" = "اقرأ المزيد على موقع UWE";
+
+/* restart text header */
+"Restart" = "اعادة تشغيل";
+
+/* restart app info */
+"Restart app" = "إعادة تشغيل التطبيق";
+
+/* safety info text */
+"Safety info" = "معلومات السلامة";
+
+/* search bar for buildings */
+"Search for buildings" = "ابحث عن المباني";
+
+/* search bar for caters */
+"Search for caters" = "ابحث عن خدمات تقديم الطعام";
+
+/* footer of campus map */
+"Searchable UWE map" = "خريطة UWE قابلة للبحث";
+
+/* settings tab */
+"Settings" = "الإعدادات";
+
+/* shop title */
+"Shops" = "محلات";
+
+/* showcase text */
+"Showcase" = "عرض";
+
+/* staff directory link */
+"Staff directory" = "دليل الموظفين";
+
+/* top header of news image */
+"Stay In The Know" = "ابق على اطلاع";
+
+/* blog title */
+"Student blogs" = "مدونات الطلاب";
+
+/* student service link */
+"Student services" = "خدمات الطالب";
+
+/* footer of the title */
+"Students experience at UWE" = "تجربة الطلاب في UWE";
+
+/* transport text */
+"Transport" = "المواصلات";
+
+/* header of urgent assistance text */
+"Urgent assistance - Please call or email and we will assist you, runs 24/7, 365 days a year" = "مساعدة عاجلة - يرجى الاتصال أو البريد الإلكتروني وسنساعدك ، على مدار الساعة طوال أيام الأسبوع ، 365 يومًا في السنة";
+
+/* title of the side menu */
+"Useful Information" = "معلومات مفيدة";
+
+/* view all buildings navigation link when tapped */
+"View all buildings ➡️ " = "مشاهدة جميع المباني ⬅️";
+
+/* view all caters navigation link when tapped */
+"View all caters ➡️" = "عرض جميع مقدمي الخدمات ⬅️";
+
+/* detail view directions to building */
+"View direction to the building 📍" = "عرض الاتجاه إلى المبنى 📍";
+
+/* detail view directions to cater */
+"View direction to the cater 📍" = "عرض الاتجاه إلى الممون 📍";
+
+/* onboarding screen info page 1 */
+"Welcome To InfoUWE!" = "مرحبا بكم في InfoUWE!";
+
+/* greetings */
+"Welcome!" = "أهلا بك!";
+
+/* Well being text */
+"Well-being" = "الرفاه";
+
+/* header of the events image */
+"What's Happening" = "ماذا يحدث";
+
+/* onboarding screen info page 2 */
+"You can also be navigated to the selected building!" = "يمكنك أيضًا الانتقال إلى المبنى المحدد!";
+
+/* restarted toggle */
+"RESTARTED" = "أعيد تشغيله";
+
+/* tap to restart toggle */
+"TAP TO RESTART" = "انقر لإعادة التشغيل";
+
+/* Student Union information */
+"We’ve invested £10m to create a new energy-efficient building for the Students’ Union at UWE on our Frenchay Campus, designed to improve the experience of our students with enhanced facilities, spaces and easier to access services." = "لقد استثمرنا 10 ملايين جنيه إسترليني لإنشاء مبنى جديد موفر للطاقة لاتحاد الطلاب في UWE في حرم Frenchay الخاص بنا ، والذي تم تصميمه لتحسين تجربة طلابنا من خلال المرافق والمساحات المحسنة والوصول إلى الخدمات بشكل أسهل.";
+
+/* Engineering block info*/
+"Home to specialist laboratories, workshops and digital engineering facilities, the building has been designed to complement our practice-based curriculum – bringing engineering to life through real world problems. As a student you can expect live industry briefs and the experience to build an enterprising skill set, so you’re set up to graduate with business acumen and technical qualifications." = "موطن للمختبرات المتخصصة وورش العمل والمرافق الهندسية الرقمية ، وقد تم تصميم المبنى لاستكمال منهجنا القائم على الممارسة - مما يجعل الهندسة تنبض بالحياة من خلال مشاكل العالم الحقيقي. بصفتك طالبًا ، يمكنك توقع ملخصات حية عن الصناعة والخبرة اللازمة لبناء مجموعة مهارات مغامِرة ، حتى تكون مستعدًا للتخرج بفطنة تجارية ومؤهلات تقنية.";
+
+/* Centre of Sport info*/
+"This fantastic £5.5 million facility caters for all abilities and competitive natures.  At our Centre of Sport, you’ll find everything from climbing walls to squash courts, football pitches to fitness studios. And whether you are an elite athlete or a total beginner there is something here for you. We know just how important it is to stay fit and healthy. It not only boosts energy levels and focuses the mind but it also helps you to de-stress and feel happier." = "هذا المرفق الرائع الذي تبلغ قيمته 5.5 مليون جنيه إسترليني يلبي جميع القدرات والطبيعة التنافسية. في مركز الرياضة لدينا ، ستجد كل شيء من تسلق الجدران إلى ملاعب الاسكواش وملاعب كرة القدم واستوديوهات اللياقة البدنية. وسواء كنت رياضيًا متميزًا أو مبتدئًا ، فهناك شيء يناسبك. نحن نعلم مدى أهمية الحفاظ على لياقتك وصحتك. إنه لا يعزز مستويات الطاقة ويركز العقل فحسب ، بل يساعدك أيضًا على التخلص من التوتر والشعور بالسعادة.";
+
+/* ECC info */
+"The UWE ECC, launched in December 2009, is quickly building a reputation amongst major local business as the ideal location for a wide range of business events. Now UWE Bristol's Exhibition and Conference Centre (ECC) has been used as a temporary NHS hospital treating COVID-19 patients." = "تم إطلاق UWE ECC في ديسمبر 2009 ، وهو يبني بسرعة سمعة بين الشركات المحلية الرئيسية كموقع مثالي لمجموعة واسعة من الأحداث التجارية. الآن تم استخدام مركز المعارض والمؤتمرات (ECC) في UWE Bristol كمستشفى مؤقت تابع لـ NHS يعالج مرضى COVID-19.";
+
+/* Centre of music info */
+"The Centre of Music is a great resource for musicians, music production, beat-making and DJing. You can Play in groups and take music lessons, book rehearsal rooms and practice rooms. Also be part of a community of passionate musicians and meet new collaborators." = "يعد مركز الموسيقى مصدرًا رائعًا للموسيقيين وإنتاج الموسيقى وصنع الإيقاعات والدي جي. يمكنك اللعب في مجموعات وأخذ دروس الموسيقى وحجز غرف البروفة وغرف التدريب. كن أيضًا جزءًا من مجتمع الموسيقيين المتحمسين وتعرف على متعاونين جدد.";
+
+/* B Block info */
+"In this building, there are plenty of students that study and learn here such as Psychology, Sociology courses and used mainly by the Department of Health and Applied Sciences. Also has a study space called the 'Forum' near C block which is a learning zone on Frenchay Campus that is open to all students." =  "في هذا المبنى ، يوجد الكثير من الطلاب الذين يدرسون ويتعلمون هنا مثل دورات علم النفس وعلم الاجتماع وتستخدم بشكل أساسي من قبل قسم الصحة والعلوم التطبيقية. يحتوي أيضًا على مساحة دراسة تسمى 'المنتدى' بالقرب من الكتلة C وهي منطقة تعليمية في حرم Frenchay وهي مفتوحة لجميع الطلاب.";
+
+/* Q block info */
+"This building houses the Department of Computer Science and Creative Technology.  This building also has a study space called ‘The Hive’.  Inside, staff and students will be working on exciting new concepts or testing and developing prototypes using the latest technology and simulation equipment." = "يضم هذا المبنى قسم علوم الكمبيوتر والتكنولوجيا الإبداعية. يحتوي هذا المبنى أيضًا على مساحة دراسة تسمى 'The Hive'. في الداخل ، سيعمل الموظفون والطلاب على مفاهيم جديدة ومثيرة أو اختبار النماذج الأولية وتطويرها باستخدام أحدث التقنيات ومعدات المحاكاة.";
+
+/* R block info */
+"Our award-winning R Block is home to fantastic facilities and inspiring industry-recognised teaching staff. There's all the latest technical equipment, and stunning studio facilities. Here you can make the most of Integrated studios for computer-aided design (CAD). Model-making and drawing resources, Architectural modelling resources and our supportive team will be on-hand to help you make the most of all our industry-standard equipment." = "يعتبر R Block الحائز على جائزة موطنًا للمرافق الرائعة وأعضاء هيئة التدريس الملهمين المعترف بهم في الصناعة. هناك أحدث المعدات التقنية ومرافق الاستوديو المذهلة. هنا يمكنك تحقيق أقصى استفادة من الاستوديوهات المتكاملة للتصميم بمساعدة الكمبيوتر (CAD). ستكون موارد صنع النماذج والرسم وموارد النمذجة المعمارية وفريقنا الداعم على استعداد لمساعدتك في تحقيق أقصى استفادة من جميع معداتنا المتوافقة مع معايير الصناعة.";
+
+/* S block info */
+"S Block is the home to our fantastic facilities and resources for learning and teaching High quality teaching rooms. This building is where you can practice in an environment similar to the real schools where you’ll be inspiring young minds." =
+"S Block هي موطن لمرافقنا ومواردنا الرائعة للتعلم والتدريس في غرف التدريس عالية الجودة. هذا المبنى هو المكان الذي يمكنك التدرب فيه في بيئة مشابهة للمدارس الحقيقية حيث ستلهم عقول الشباب.";
+
+/* library*/
+"This block is the D block area. This block contains the library which hosts a large selection of books as well numerous study spaces such as the quiet study zone and silent study zone." = "هذه الكتلة هي منطقة كتلة D. تحتوي هذه الكتلة على المكتبة التي تستضيف مجموعة كبيرة من الكتب بالإضافة إلى العديد من أماكن الدراسة مثل منطقة الدراسة الهادئة ومنطقة الدراسة الصامتة.";
+
+/* Wallscourt Park info: */
+"Wallscourt Park is similar to the student village but in a different location for you to stay in 1st year. It is a great choice if you want to be close to facilities such as the library and Student Union." = "يشبه Wallscourt Park قرية الطلاب ولكن في موقع مختلف لتتمكن من البقاء في السنة الأولى. إنه خيار رائع إذا كنت تريد أن تكون قريبًا من مرافق مثل المكتبة واتحاد الطلاب.";
+
+/* BRL info */
+"Bristol Robotics Laboratory (BRL) is a nationally and internationally recognised as a centre of excellence for advanced robotics research." = "مختبر بريستول للروبوتات (BRL) هو مركز معترف به وطنياً ودولياً كمركز امتياز لأبحاث الروبوتات المتقدمة.";
+
+/* Student Village info */
+"This is where nearly 3,000 students live in 1st year.  A great choice if you would like to be close to lecture theatres, the Library, computer rooms, The Students’ Union and Centre for Sport." = "هذا هو المكان الذي يعيش فيه ما يقرب من 3000 طالب في السنة الأولى. خيار رائع إذا كنت ترغب في أن تكون قريبًا من قاعات المحاضرات والمكتبة وغرف الكمبيوتر واتحاد الطلاب ومركز الرياضة.";
+
+/* Business school info */
+"The result of a £55 million vision, the Bristol Business School building is the largest on Frenchay Campus.  Through Bristol Business School’s diverse range of practical courses and research, with national and international links, we deliver an educational experience that enables our students to meet their future career ambitions." = "نتيجة لرؤية 55 مليون جنيه إسترليني ، فإن مبنى Bristol Business School هو الأكبر في حرم Frenchay الجامعي. من خلال المجموعة المتنوعة من الدورات العملية والبحوث في Bristol Business School ، مع الروابط الوطنية والدولية ، نقدم تجربة تعليمية تمكن طلابنا من تلبية طموحاتهم المهنية في المستقبل.";
+
+/* Octagon info */
+"The Octagon is a sanctuary space for staff and students where you can relax, read and meet friends. There are rooms available for solo or group prayer, worship, meditation and quiet reflection. There are also a number of books available to enable you to learn and explore your own faith and spirituality, as well as a wellbeing library." = "The Octagon عبارة عن مساحة ملاذ للموظفين والطلاب حيث يمكنك الاسترخاء والقراءة ومقابلة الأصدقاء. تتوفر غرف للصلاة الفردية أو الجماعية والعبادة والتأمل والتفكير الهادئ. هناك أيضًا عدد من الكتب المتاحة لتمكينك من تعلم واستكشاف إيمانك وروحانياتك ، بالإضافة إلى مكتبة الرفاهية.";
+
+/* street cafe */
+"Tasty, quick and exciting street food such as a grab and go service of sandwiches, freshly made baguettes, snacks, pastries, cakes, and hot and cold drinks. Located in S block." = "طعام الشارع اللذيذ والسريع والمثير مثل خدمة الوجبات السريعة من السندويشات والخبز الطازج والوجبات الخفيفة والمعجنات والكعك والمشروبات الساخنة والباردة. يقع في مبنى S.";
+
+/* the grill info */
+"The enthusiasts of piri piri sauce, serving meals bursting with flavour. Located in B block." = "عشاق صلصة بيري بيري ، يقدمون وجبات مليئة بالنكهات. تقع في بلوك ب.";
+
+/* starbucks*/
+ "Our drinks range includes a wide range of premium coffees including whole bean and ground coffee, hot chocolate and a range of teas available. Our food range covers breakfast sandwiches/rolls and filled croissants as well as cakes, cookies and pastries to suit everyone’s tastes. Located in E block next to Onezone and library." = "تشمل مجموعة مشروباتنا مجموعة واسعة من أنواع القهوة الممتازة بما في ذلك حبوب البن الكاملة والقهوة المطحونة والشوكولاتة الساخنة ومجموعة من أنواع الشاي المتاحة. تغطي مجموعة طعامنا شطائر / لفائف الإفطار والكرواسون المحشو وكذلك الكعك والبسكويت والمعجنات التي تناسب أذواق الجميع. يقع في المبنى E بجوار Onezone والمكتبة.";
+
+/* wafflemeister */
+"It’s always brunch-time somewhere in the world and there’s no better place to indulge than at Wafflemeister. Located between blocks E/F/N block." = "إنه دائمًا وقت الفطور المتأخر في مكان ما في العالم وليس هناك مكان أفضل للاستمتاع به في Wafflemeister. تقع بين كتل E / F / N.";
+
+/* the atrium*/
+ "A café with outside seating serving locally sourced food and drink through a full hot a la carte menu, fresh sandwiches, snacks and speciality hot and cold drinks. Located in Bristol Business School Building." = "مقهى به منطقة جلوس خارجية يقدم الطعام والشراب من مصادر محلية من خلال قائمة طعام انتقائية ساخنة كاملة وسندويشات طازجة ووجبات خفيفة ومشروبات خاصة ساخنة وباردة. يقع في مبنى مدرسة بريستول للأعمال.";
+
+/* SU bar*/
+ "The coffee shop on the upper floor serves Starbucks coffee and fresh sandwiches and panini and the bar serves a wide range of food throughout the day. Located in U block, next to SU building." = "المقهى الموجود في الطابق العلوي يقدم قهوة ستاربكس والسندويشات الطازجة والبانيني ويقدم البار مجموعة كبيرة من الأطعمة طوال اليوم. يقع في بلوك U بجوار مبنى SU.";
+
+/* costa coffee */
+ "Whether you want to wake yourself up with one of our short drinks or relax over a tall drink we’ve got a coffee to suit you. A café with outside seating serving a wide selection of sandwiches and snacks to enjoy on the go. Located in R block." = "سواء كنت ترغب في إيقاظ نفسك بأحد مشروباتنا القصيرة أو الاسترخاء وتناول مشروب طويل ، فلدينا القهوة التي تناسبك. مقهى به منطقة جلوس خارجية يقدم مجموعة متنوعة من السندويشات والوجبات الخفيفة للاستمتاع بها أثناء التنقل. تقع في بلوك R.";
+
+/* onezone*/
+"Serving global cuisine and traditional flavours at unbeatable prices. Located in E block next to the Starbucks and library." = "خدمة المأكولات العالمية والنكهات التقليدية بأسعار لا تقبل المنافسة. يقع في المبنى E بجوار ستاربكس والمكتبة.";
+
+/* subway */
+ "Subway serves subs, salads and snacks. Located in Q block." = "يقدم صب واي الغواصات والسلطات والوجبات الخفيفة. تقع في بلوك Q.";
+
+/* SU shop*/
+ "Convenience store stocking student essentials including groceries, health and beauty products, stationery and cards and stamps. This is located in the F block and next to SU building." = "متجر صغير يخزن أساسيات الطلاب بما في ذلك البقالة ومنتجات الصحة والجمال والقرطاسية والبطاقات والطوابع. يقع هذا في المبنى F وبجوار مبنى SU.";
